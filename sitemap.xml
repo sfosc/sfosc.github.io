@@ -8,18 +8,8 @@
   </url>
   
   <url>
-    <loc>https://sfosc.github.io/governance-models/</loc>
-    <lastmod>2018-11-29T15:52:08-08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sfosc.github.io/sfosc-book/introduction/</loc>
     <lastmod>2018-11-29T12:13:12-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sfosc.github.io/business-models/</loc>
-    <lastmod>2018-11-29T12:13:04-08:00</lastmod>
   </url>
   
   <url>
@@ -28,18 +18,23 @@
   </url>
   
   <url>
-    <loc>https://sfosc.github.io/sfosc-book/motivations/</loc>
-    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+    <loc>https://sfosc.github.io/governance-models/</loc>
+    <lastmod>2018-11-29T15:52:08-08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sfosc.github.io/sfosc-book/</loc>
+    <loc>https://sfosc.github.io/sfosc-book/motivations/</loc>
     <lastmod>2018-11-29T12:13:12-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://sfosc.github.io/sfosc-book/conception/</loc>
     <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfosc.github.io/business-models/</loc>
+    <lastmod>2018-11-29T12:13:04-08:00</lastmod>
   </url>
   
   <url>
@@ -69,6 +64,11 @@
   
   <url>
     <loc>https://sfosc.github.io/sfosc-book/the_way_forward/</loc>
+    <lastmod>2018-11-29T12:13:12-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sfosc.github.io/sfosc-book/</loc>
     <lastmod>2018-11-29T12:13:12-08:00</lastmod>
   </url>
   
