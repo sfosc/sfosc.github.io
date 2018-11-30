@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html lang="en" class="js csstransforms3d">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="generator" content="Hugo 0.51" />
+    <meta name="description" content="Guidelines for building sustainable free and open source communities">
+<meta name="author" content="The Sustainable Free and Open Source Community">
+
+    <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
+<link rel="icon" href="/images/favicon.png" type="image/x-icon" />
+    <title>Setting up Rawls&#39; Game :: Sustainable Free and Open Source Communities</title>
+
+    
+    <link href="/css/nucleus.css?1543619807" rel="stylesheet">
+    <link href="/css/fontawesome-all.min.css?1543619807" rel="stylesheet">
+    <link href="/css/hybrid.css?1543619807" rel="stylesheet">
+    <link href="/css/featherlight.min.css?1543619807" rel="stylesheet">
+    <link href="/css/perfect-scrollbar.min.css?1543619807" rel="stylesheet">
+    <link href="/css/auto-complete.css?1543619807" rel="stylesheet">
+    <link href="/css/theme.css?1543619807" rel="stylesheet">
+    <link href="/css/hugo-theme.css?1543619807" rel="stylesheet">
+    
+      <link href="/css/theme-blue.css?1543619807" rel="stylesheet">
+    
+
+    <script src="/js/jquery-2.x.min.js?1543619807"></script>
+
+    <style type="text/css">
+      :root #header + #content > #left > #rlblock_left{
+          display:none !important;
+      }
+      
+    </style>
+    
+  </head>
+  <body class="" data-url="/sfosc-book/rawls_for_foss/">
+    <nav id="sidebar" class="">
+
+
+
+  <div id="header-wrapper">
+    <div id="header">
+      <h1 style="color: #FFFFFF"><a href="/" style="color: #FFFFFF"><i class="fas fa-globe" style="color: #FFFFFF">&nbsp</i>SFOSC</a></h1>
+
+    </div>
+    
+        <div class="searchbox">
+    <label for="search-by"><i class="fas fa-search"></i></label>
+    <input data-search-input id="search-by" type="text" placeholder="Search...">
+    <span data-search-clear=""><i class="fas fa-close"></i></span>
+</div>
+
+<script type="text/javascript" src="/js/lunr.min.js?1543619807"></script>
+<script type="text/javascript" src="/js/auto-complete.js?1543619807"></script>
+<script type="text/javascript">
+    
+        var baseurl = "https:\/\/sfosc.github.io\/";
+    
+</script>
+<script type="text/javascript" src="/js/search.js?1543619807"></script>
+
+    
+  </div>
+
+    <div class="highlightable">
+    <ul class="topics">
+
+        
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/principles/" title="Principles" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/principles/">
+          Principles
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/governance-models/" title="Governance Models" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/governance-models/">
+          <b>X. </b>Governance Models
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/business-models/" title="Business Models" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/business-models/">
+          <b>X. </b>Business Models
+          
+      </a>
+      
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/social-contracts/" title="Social Contracts" class="dd-item 
+        
+        
+        
+        ">
+      <a href="/social-contracts/">
+          <b>X. </b>Social Contracts
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/social-contracts/donation/" title="Donation based Social Contract" class="dd-item ">
+        <a href="/social-contracts/donation/">
+        Donation
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+          
+
+
+ 
+  
+    
+    <li data-nav-id="/sfosc-book/" title="The Book" class="dd-item 
+        parent
+        
+        
+        ">
+      <a href="/sfosc-book/">
+          The Book
+          
+      </a>
+      
+      
+        <ul>
+          
+          
+          
+          
+        
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/introduction/" title="Introduction" class="dd-item ">
+        <a href="/sfosc-book/introduction/">
+        Introduction
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/motivations/" title="Motivations" class="dd-item ">
+        <a href="/sfosc-book/motivations/">
+        Motivations
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/conception/" title="A definition of Sustainable Free and Open Source Communities" class="dd-item ">
+        <a href="/sfosc-book/conception/">
+        Definition of SFOSC
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/institutions/" title="Designing a Sustainable Institution" class="dd-item ">
+        <a href="/sfosc-book/institutions/">
+        Designing a Sustainable Institution
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/rawls_for_foss/" title="Setting up Rawls&#39; Game" class="dd-item active">
+        <a href="/sfosc-book/rawls_for_foss/">
+        Setting up Rawls&#39; Game
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/governance/" title="Governance and Behavior" class="dd-item ">
+        <a href="/sfosc-book/governance/">
+        Governance and Behavior
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/contribution_and_distribution/" title="Contribution and Distribtion" class="dd-item ">
+        <a href="/sfosc-book/contribution_and_distribution/">
+        Contribution and Distribtion
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/business-models/" title="Business Models" class="dd-item ">
+        <a href="/sfosc-book/business-models/">
+        Business Models
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+            
+            
+
+
+ 
+  
+    
+      <li data-nav-id="/sfosc-book/the_way_forward/" title="The Way Forward" class="dd-item ">
+        <a href="/sfosc-book/the_way_forward/">
+        The Way Forward
+        
+        </a>
+    </li>
+     
+  
+ 
+
+            
+          
+        
+        </ul>
+              
+    </li>
+  
+ 
+
+          
+         
+    </ul>
+
+    
+    
+
+    
+    <section id="footer">
+      <p>Built with <a href="https://github.com/matcornic/hugo-theme-learn"><i class="fas fa-heart"></i></a> from <a href="http://getgrav.org">Grav</a> and <a href="http://gohugo.io/">Hugo</a></p>
+
+    </section>
+  </div>
+</nav>
+
+
+
+
+
+        <section id="body">
+        <div id="overlay"></div>
+        <div class="padding highlightable">
+              
+              <div>
+                <div id="top-bar">
+                
+                  
+                  
+                  
+                  <div id="top-github-link">
+                    <a class="github-link" title='Edit this page' href="https://github.com/sfosc/sfosc.github.io/edit/master/content/sfosc-book/rawls_for_foss.md" target="blank">
+                      <i class="fas fa-code-branch"></i>
+                      <span id="top-github-link-text">Edit this page</span>
+                    </a>
+                  </div>
+                  
+                
+                
+                <div id="breadcrumbs" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+                    <span id="sidebar-toggle-span">
+                        <a href="#" id="sidebar-toggle" data-sidebar-toggle="">
+                          <i class="fas fa-bars"></i>
+                        </a>
+                    </span>
+                  
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
+                  <span class="links">
+                 
+                 
+                    
+          
+          
+            
+            
+          
+          
+            
+            
+          
+          
+            <a href='/'>SFOSC</a> > <a href='/sfosc-book/'>The Book</a> > Setting up Rawls' Game
+          
+         
+          
+         
+          
+        
+                 
+                  </span>
+                </div>
+                
+                    <div class="progress">
+    <div class="wrapper">
+
+    </div>
+</div>
+
+                
+              </div>
+            </div>
+            
+
+        
+        <div id="body-inner">
+          
+            <h1>Setting up Rawls&#39; Game</h1>
+          
+
+        
+
+
+<p>To begin, we have to decide what the primary goods are. What is the thing we want, whatsoever else we might want. We can take for granted Rawls list (freedom of expression, etc), since we are scoping things down to our sustainable open source community. In its place, a reasonable statement of the primary good we want is:</p>
+
+<blockquote>
+<p>We want the software to exist, to solve our problem, to continue to improve, and to be available for our use.</p>
+</blockquote>
+
+<p>Since our primary good is software, it has the unique property of being infinite in amount. If we want more of it, we can simply&hellip; create more of it. This definition ensures we will not trade away our ability to be sustainable.</p>
+
+<p>Now we need to apply the equal liberty principle. What are the rights we won&rsquo;t trade?</p>
+
+<p>It turns out that the <a href="https://www.gnu.org/philosophy/free-sw.en.html">Four Freedoms set forth by Richard Stallman</a> (RMS) are a perfect fit here. (I suspect not by accident - I put the odds that RMS didn&rsquo;t read Rawls in 1983 at slim to none.) They are:</p>
+
+<ul>
+<li>The freedom to run the program as you wish, for any purpose (freedom 0).</li>
+<li>The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.</li>
+<li>The freedom to redistribute copies so you can help others (freedom 2).</li>
+<li>The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.</li>
+</ul>
+
+<p>By adopting the four freedoms as our foundational rights, we guarantee our communities basic liberty. Regardless of our position in the community, we will always have access to our primary good. Anything less than the four freedoms and we could easily be in a position where we are locked out of the community. Where our basic desire goes unfulfilled. By agreeing to never trade away our four freedoms, we fulfill the equal liberty principle.</p>
+
+<p>This implies that, to be sustainable open source community:</p>
+
+<ul>
+<li>The software must be released under a Free and Open Source license.</li>
+</ul>
+
+<p>This is, of course, not quite enough. We want more than just basic liberty in our lives - the “whatsoever else we might want” part of Rawls conception of the good. We want prestige, we want influence, we want money, we want friendship - the list is long. Simply having the software isn’t worth much if we can’t ensure a long life together as a community. It may give us liberty, but it won’t give us fraternity.</p>
+
+<p>Once we start injecting the other things we want into our community, we are going to cause inequality. We need to ensure that those inequalities meet fair equality of opportunity and the difference principle. To do that, we need to have a better understanding of what the positions are we might occupy in our community. What are the different outcomes of the dice roll that determines our fate?</p>
+
+<ul>
+<li><em>Founders</em>: the original authors of the software. They begin with 100% of the goods in our community. (If it wasn’t for their initial decision to create a community in the first place, there would be no community.)</li>
+<li><em>Developers</em>: people with the technical ability and desire to improve the software. Either for their own benefit or the benefit of their employer.</li>
+<li><em>Contributors</em>: those who engage in the work of making the software better by not by writing code. They might file bug reports, compile release notes, write documentation, answer questions, etc.</li>
+<li><em>Evangelists</em>: people who benefit by raising their own profile by telling others about the benefits of the software.</li>
+<li><em>Non-Commercial Users</em>: folks who use the software to solve their own problems. Distinct in that they are not solving the problem of how to generate wealth with the software.</li>
+<li><em>Commercial Users</em>: users of the software who are solving problems related to generating wealth. Distinct in that they are not generating wealth from the software directly.</li>
+<li><em>Software Businesses</em>: entities that sell a build of the software, and provides support for its use.</li>
+<li><em>As-A-Service Businesses</em>: distinct from software businesses, in that they provide the software as a service, over a network.</li>
+<li><em>Managed Service Businesses</em>: similar to an As-A-Service Business, but provides the software as a service at the location of the consumers choice. Manages the lifecycle of the software on behalf of the consumer.</li>
+<li><em>Consulting Businesses</em>: sells implementation and strategic consulting around the software.</li>
+<li><em>Venture Capitalists</em>: people that provide funding of businesses, in return for a stake in the business. Have the express desire that the business grows significantly in value.</li>
+</ul>
+
+<p>This conception of community is an expansive one - it includes not only software developers, but anyone who has a stake in our community. How can we exclude the contributors who don&rsquo;t write software? The venture capitalists who bring massive amounts of money to the table? All these are different aspects of the work involved in supporting the creation, evolution, use and extension of the software. We have to include them all, and as we discover new ones, include them as well.  If we do not, we aren&rsquo;t can&rsquo;t be sure we&rsquo;re evaluating our rules against a realistic field.</p>
+
+
+<footer class=" footline" >
+	
+</footer>
+
+
+        
+        </div> 
+        
+
+      </div>
+
+    <div id="navigation">
+        
+        
+        
+        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                        
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+            
+        
+                    
+            
+        
+        
+        
+
+
+	 
+	 
+		
+			<a class="nav nav-prev" href="/sfosc-book/institutions/" title="Designing a Sustainable Institution"> <i class="fa fa-chevron-left"></i></a>
+		
+		
+			<a class="nav nav-next" href="/sfosc-book/governance/" title="Governance and Behavior" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+		
+	
+    </div>
+
+    </section>
+    
+    <div style="left: -1000px; overflow: scroll; position: absolute; top: -1000px; border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;">
+      <div style="border: none; box-sizing: content-box; height: 200px; margin: 0px; padding: 0px; width: 200px;"></div>
+    </div>
+    <script src="/js/clipboard.min.js?1543619807"></script>
+    <script src="/js/perfect-scrollbar.min.js?1543619807"></script>
+    <script src="/js/perfect-scrollbar.jquery.min.js?1543619807"></script>
+    <script src="/js/jquery.sticky.js?1543619807"></script>
+    <script src="/js/featherlight.min.js?1543619807"></script>
+    <script src="/js/html5shiv-printshiv.min.js?1543619807"></script>
+    <script src="/js/highlight.pack.js?1543619807"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="/js/modernizr.custom.71422.js?1543619807"></script>
+    <script src="/js/learn.js?1543619807"></script>
+    <script src="/js/hugo-learn.js?1543619807"></script>
+
+    <link href="/mermaid/mermaid.css?1543619807" type="text/css" rel="stylesheet" />
+    <script src="/mermaid/mermaid.js?1543619807"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: true });
+    </script>
+    
+
+  </body>
+</html>
+

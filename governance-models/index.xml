@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Governance Models on Sustainable Free and Open Source Communities</title>
+    <link>https://sfosc.github.io/governance-models/</link>
+    <description>Recent content in Governance Models on Sustainable Free and Open Source Communities</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Nov 2018 15:52:08 -0800</lastBuildDate>
+    
+	<atom:link href="https://sfosc.github.io/governance-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
