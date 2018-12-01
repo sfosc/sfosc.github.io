@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SFOSC on Sustainable Free and Open Source Communities</title>
-    <link>https://sfosc.github.io/</link>
+    <link>https://sfosc.org/</link>
     <description>Recent content in SFOSC on Sustainable Free and Open Source Communities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 29 Nov 2018 11:01:38 -0800</lastBuildDate>
     
-	<atom:link href="https://sfosc.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sfosc.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction</title>
-      <link>https://sfosc.github.io/sfosc-book/introduction/</link>
+      <link>https://sfosc.org/sfosc-book/introduction/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/introduction/</guid>
+      <guid>https://sfosc.org/sfosc-book/introduction/</guid>
       <description>The free and open source community is in a state of introspection deeper than at any time in its history. We are having conversations around &amp;ldquo;sustainable business models&amp;rdquo;, the rise of &amp;ldquo;as a service&amp;rdquo; behemoths in AWS, Google and Microsoft. Questions about if ethics has a place in our governance and licensing models. We are questioning the basic values and ideas of the movement itself.
 Since the term Open Source was first adopted in 1997, it has become the dominant software development model around the world.</description>
     </item>
     
     <item>
       <title>Motivations</title>
-      <link>https://sfosc.github.io/sfosc-book/motivations/</link>
+      <link>https://sfosc.org/sfosc-book/motivations/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/motivations/</guid>
+      <guid>https://sfosc.org/sfosc-book/motivations/</guid>
       <description>For my own part, I started my journey with Free Software in 1994, with a copy of Slackware I installed from floppies. I had been running a BBS for years, and I had become an operating system nerd because I wanted true multi-tasking. I was so proud of running a copy of OS/2 Warp. Slackware changed everything for me - I could see the source code, read the man pages. I could do anything I wanted.</description>
     </item>
     
     <item>
       <title>A definition of Sustainable Free and Open Source Communities</title>
-      <link>https://sfosc.github.io/sfosc-book/conception/</link>
+      <link>https://sfosc.org/sfosc-book/conception/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/conception/</guid>
+      <guid>https://sfosc.org/sfosc-book/conception/</guid>
       <description>If we are to re-align the incentives, we have to start from the top, and that means definitions. When I say “Sustainable Open Source Community”, I mean the following:
  A unified body of individuals, scattered throughout a larger society, who work in support of the creation, evolution, use, and extension of free and open source software; while ensuring its longevity through meeting the needs of the present without compromising the ability of the community of the future to meet its own needs.</description>
     </item>
     
     <item>
       <title>Designing a Sustainable Institution</title>
-      <link>https://sfosc.github.io/sfosc-book/institutions/</link>
+      <link>https://sfosc.org/sfosc-book/institutions/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/institutions/</guid>
+      <guid>https://sfosc.org/sfosc-book/institutions/</guid>
       <description>What makes other communities sustainable? One common thread is that they all have institutions that support and govern them. They could be courts, legislatures, religious hierarchies, fraternal societies; the list goes on. What we don&amp;rsquo;t find are sustainable communities without institutions. Even anarcho-syndicates form terms of their free association.
 Therefore, we need to design an institution that supports and governs the community, which is dedicated to creating the architecture of participation that ensures a thriving community.</description>
     </item>
     
     <item>
       <title>Setting up Rawls&#39; Game</title>
-      <link>https://sfosc.github.io/sfosc-book/rawls_for_foss/</link>
+      <link>https://sfosc.org/sfosc-book/rawls_for_foss/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/rawls_for_foss/</guid>
+      <guid>https://sfosc.org/sfosc-book/rawls_for_foss/</guid>
       <description>To begin, we have to decide what the primary goods are. What is the thing we want, whatsoever else we might want. We can take for granted Rawls list (freedom of expression, etc), since we are scoping things down to our sustainable open source community. In its place, a reasonable statement of the primary good we want is:
  We want the software to exist, to solve our problem, to continue to improve, and to be available for our use.</description>
     </item>
     
     <item>
       <title>Governance and Behavior</title>
-      <link>https://sfosc.github.io/sfosc-book/governance/</link>
+      <link>https://sfosc.org/sfosc-book/governance/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/governance/</guid>
+      <guid>https://sfosc.org/sfosc-book/governance/</guid>
       <description>Lets start by evaluating how to provide fair equality of opportunity for the direction of the project. I see three common models:
  Dictatorships, such as Linux, Python, and Chef. Self organizing with loose consensus, as best seen in the Rust community. Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.  How does each stack up to Rawls principles?
 The dictatorship model has an individual, often the founder, holding 100% of the authority over the projects direction.</description>
@@ -73,38 +73,38 @@ The dictatorship model has an individual, often the founder, holding 100% of the
     
     <item>
       <title>Contribution and Distribtion</title>
-      <link>https://sfosc.github.io/sfosc-book/contribution_and_distribution/</link>
+      <link>https://sfosc.org/sfosc-book/contribution_and_distribution/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/contribution_and_distribution/</guid>
+      <guid>https://sfosc.org/sfosc-book/contribution_and_distribution/</guid>
       <description>Having established the rules for governance and behavior for the community at large, we can turn to the terms under which work is contributed to the community, and how it is distributed to others. To cover this, we need to introduce the different levers at our disposal: copyrights, trademarks, patents, terms of distribution (end user license agreements, or EULAs), and terms of service.
 (As an aside: these terms are not defined or enforced in the same way around the globe.</description>
     </item>
     
     <item>
       <title>Business Models</title>
-      <link>https://sfosc.github.io/sfosc-book/business-models/</link>
+      <link>https://sfosc.org/sfosc-book/business-models/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/business-models/</guid>
+      <guid>https://sfosc.org/sfosc-book/business-models/</guid>
       <description>From the perspective of creating sustainable open source communities, clearly it is better when we have more of the software in the open, not less, and the finger points strongly at using not only copyleft licenses, but the strongest possible variation that makes sense for the type of software we are building. Where things get more complex is when we start to creep Rawls back in: we want the primary good to increase, but we also want other things.</description>
     </item>
     
     <item>
       <title>The Way Forward</title>
-      <link>https://sfosc.github.io/sfosc-book/the_way_forward/</link>
+      <link>https://sfosc.org/sfosc-book/the_way_forward/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/sfosc-book/the_way_forward/</guid>
+      <guid>https://sfosc.org/sfosc-book/the_way_forward/</guid>
       <description>We can pull all of this together with set of of sustainable open source community principles - these are the guidelines we should follow if we want to create a sustainable open source community. Then we can create specific implementations of these principles for our communities - social contracts that spell out the communities intentions, their relationship to monetization, and the principles upon which they will thrive: their community social contract.</description>
     </item>
     
     <item>
       <title>Donation based Social Contract</title>
-      <link>https://sfosc.github.io/social-contracts/donation/</link>
+      <link>https://sfosc.org/social-contracts/donation/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:32 -0800</pubDate>
       
-      <guid>https://sfosc.github.io/social-contracts/donation/</guid>
+      <guid>https://sfosc.org/social-contracts/donation/</guid>
       <description>Introduction This document describe the social contract for the community around a piece of open source software (&amp;ldquo;the software&amp;rdquo;). It lays out the moral and ethical rules the community agrees to in order to ensure a long, healthy, sustainable life for the software.
 It is not a legal agreement, although sections of it reference legal agreements. It is a moral and ethical one - it is the foundation upon which the community is built.</description>
     </item>
