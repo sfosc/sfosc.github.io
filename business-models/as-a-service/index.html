@@ -9,7 +9,7 @@
 
     <link rel="shortcut icon" href="/images/favicon.png" type="image/x-icon" />
 <link rel="icon" href="/images/favicon.png" type="image/x-icon" />
-    <title>The Book :: Sustainable Free and Open Source Communities</title>
+    <title>As a Service :: Sustainable Free and Open Source Communities</title>
 
     
     <link href="/css/nucleus.css?1544158603" rel="stylesheet">
@@ -43,7 +43,7 @@
 </script>
 
   </head>
-  <body class="" data-url="/sfosc-book/">
+  <body class="" data-url="/business-models/as-a-service/">
     <nav id="sidebar" class="">
 
 
@@ -179,7 +179,7 @@
   
     
     <li data-nav-id="/business-models/" title="Business Models" class="dd-item 
-        
+        parent
         
         
         ">
@@ -279,7 +279,7 @@
  
   
     
-      <li data-nav-id="/business-models/as-a-service/" title="As a Service" class="dd-item ">
+      <li data-nav-id="/business-models/as-a-service/" title="As a Service" class="dd-item active">
         <a href="/business-models/as-a-service/">
         As a Service
         
@@ -363,8 +363,8 @@
   
     
     <li data-nav-id="/sfosc-book/" title="The Book" class="dd-item 
-        parent
-        active
+        
+        
         
         ">
       <a href="/sfosc-book/">
@@ -588,7 +588,7 @@
                   
                   
                   <div id="top-github-link">
-                    <a class="github-link" title='Edit this page' href="https://github.com/sfosc/sfosc/edit/master/content/sfosc-book/_index.md" target="blank">
+                    <a class="github-link" title='Edit this page' href="https://github.com/sfosc/sfosc/edit/master/content/business-models/as-a-service.md" target="blank">
                       <i class="fas fa-code-branch"></i>
                       <span id="top-github-link-text">Edit this page</span>
                     </a>
@@ -603,6 +603,8 @@
                         </a>
                     </span>
                   
+                  <span id="toc-menu"><i class="fas fa-list-alt"></i></span>
+                  
                   <span class="links">
                  
                  
@@ -613,7 +615,13 @@
             
           
           
-            <a href='/'>SFOSC</a> > The Book
+            
+            
+          
+          
+            <a href='/'>SFOSC</a> > <a href='/business-models/'>Business Models</a> > As a Service
+          
+         
           
          
           
@@ -622,14 +630,34 @@
                   </span>
                 </div>
                 
+                    <div class="progress">
+    <div class="wrapper">
+<nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li>
+<ul>
+<li><a href="#who-uses-it">Who Uses it?</a></li>
+<li><a href="#when-should-it-be-used">When should it be used?</a></li>
+<li><a href="#what-kind-of-monetization-is-possible">What kind of monetization is possible?</a></li>
+<li><a href="#does-this-model-help-create-a-sustainable-free-and-open-source-community">Does this model help create a Sustainable Free and Open Source Community?</a></li>
+</ul></li>
+</ul></li>
+</ul>
+</nav>
+    </div>
+</div>
+
+                
               </div>
             </div>
             
 
         
-          <div id="chapter">
-        
         <div id="body-inner">
+          
+            <h1>As a Service</h1>
           
 
         
@@ -637,34 +665,45 @@
 
 
 
-<h1 id="the-sustainable-free-and-open-source-communities-book">The Sustainable Free and Open Source Communities Book</h1>
+<p>The As a Service model is when the software is released under an open source license, and available for anyone to run, while also being made available As a Service by the company.</p>
 
-<h3 id="written-by-adam-jacob">Written by Adam Jacob</h3>
-
-<p>This book is the collection of thoughts and research that resulted in the <a href="/principles/">principles</a>, <a href="/governance-models/">governance models</a>, <a href="/business-models/">business models</a>, and <a href="/social-contracts/">social contracts</a>. It walks through how I analyzed the problem of building sustainable open source communities through the lens of John Rawls&rsquo; Theory of Justice, and pulls from that analysis the items in the principles.</p>
-
-<p>If you want to contribute to the conversation around Sustainable Free and Open Source Communities, it&rsquo;s the place to begin reading.</p>
-
-<p>I want to give thanks to the many people who read drafts, bounced around ideas, or were kind enough to let me talk (and talk) about these ideas. They may or may not agree with what I wrote, but they were instrumental in my writing it, and without them it wouldn&rsquo;t exist.</p>
+<h3 id="who-uses-it">Who Uses it?</h3>
 
 <ul>
-<li>Katie Bethell, who was willing to read Rawls to talk about this with me over dinner.</li>
-<li>Jeff Hackert, a true friend. Without his validation and enthusasism, my own imposter syndrome would have stopped me before I started.</li>
-<li>Corey Scobie, an incredible engineering and product mind, who talked the business models through with me over and over, even when I was confusing myself.</li>
-<li>Brad Henrickson, the best accountability buddy possible, and a true friend who reads your stuff on vacation.</li>
-<li>John Gossman, who has given me insightful feedback not only on this, but on every project I&rsquo;ve started in the last few years. I&rsquo;m thankful to know him.</li>
-<li>Katie Long, our lead counsel at Chef, who talked with me about my understandings of patent, copyright, trademark, and more.</li>
-<li>Kimberly Garmoe, who took an earlier idea on this topic I had and had the idea to frame things as positive rights</li>
-<li>The Magical Microsoft Open Source Round Table, who were kind enough to listen to these ideas when they were just pages in my notebook, and challenge them in a spirited, delightful conversation.</li>
+<li><a href="https://discourse.org">Discourse</a></li>
+<li><a href="https://mongodb">MongoDB</a></li>
 </ul>
+
+<h3 id="when-should-it-be-used">When should it be used?</h3>
+
+<p>When the software is primarily consumer oriented, or has a large operational
+overhead. The goal here is that the software has the simplest on-ramp possible,
+and requires no effort to maintain over time.</p>
+
+<h3 id="what-kind-of-monetization-is-possible">What kind of monetization is possible?</h3>
+
+<p>It it&rsquo;s most pure form, such as Discourse, the software is always 100% free. That means
+that, while there is often a single company offering it as a service, the community
+itself is free to do so as well.</p>
+
+<p>In other cases, the software will be covered under an aggressive form of
+copyleft, potentially combined with <a href="/business-models/dual-licensing/">dual licensing</a>, or non-free licenses (such as the
+<a href="https://commonsclause.com">commons clause</a>) may be
+used to create a monopoly on offering the software as a service.</p>
+
+<h3 id="does-this-model-help-create-a-sustainable-free-and-open-source-community">Does this model help create a Sustainable Free and Open Source Community?</h3>
+
+<p>Maybe. With the example of Discourse above, the answer is yes. The community is
+sustained through the service, but any member of the community would be free to
+compete. With any model that uses dual licensing combined with aggressive copyleft,
+or non-free licenses, it trades the <a href="/principles/">fundamental liberties in the core commitment</a> for revenue.</p>
 
 
 <footer class=" footline" >
 	
 </footer>
 
-        
-            </div> 
+
         
         </div> 
         
@@ -763,6 +802,7 @@
             
                 
                     
+                    
                 
                 
 
@@ -775,6 +815,9 @@
             
             
                 
+                    
+                        
+                        
                     
                 
                 
@@ -840,6 +883,26 @@
             
                 
                     
+                    
+                
+                
+
+                    
+                    
+                    
+
+                    
+            
+        
+                    
+                        
+            
+            
+                
+                    
+                        
+                        
+                    
                 
                 
 
@@ -883,22 +946,6 @@
             
         
                     
-                        
-            
-            
-                
-                    
-                
-                
-
-                    
-                    
-                    
-
-                    
-            
-        
-                    
             
         
                     
@@ -907,7 +954,6 @@
             
                 
                     
-                    
                 
                 
 
@@ -920,9 +966,6 @@
             
             
                 
-                    
-                        
-                        
                     
                 
                 
@@ -1075,10 +1118,10 @@
 	 
 	 
 		
-			<a class="nav nav-prev" href="/business-models/free-software-product/" title="Free Software Product"> <i class="fa fa-chevron-left"></i></a>
+			<a class="nav nav-prev" href="/business-models/dual-licensing/" title="Dual Licensing"> <i class="fa fa-chevron-left"></i></a>
 		
 		
-			<a class="nav nav-next" href="/sfosc-book/introduction/" title="Introduction" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
+			<a class="nav nav-next" href="/business-models/donations/" title="Donations" style="margin-right: 0px;"><i class="fa fa-chevron-right"></i></a>
 		
 	
     </div>
@@ -1109,3 +1152,4 @@
 
   </body>
 </html>
+

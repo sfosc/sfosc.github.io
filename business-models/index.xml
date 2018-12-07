@@ -11,5 +11,86 @@
 	<atom:link href="https://sfosc.org/business-models/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Free Software Island</title>
+      <link>https://sfosc.org/business-models/free-software-island/</link>
+      <pubDate>Thu, 06 Dec 2018 11:29:21 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/free-software-island/</guid>
+      <description>A Free Software Island is a project, usually enabled by a foundation, where everyone agrees the software is created purely for the public good. Individuals and businesses alike agree to co-operate with each other on the software that is contained on the island, for mutual benefit.
+Who uses it?  All of the software developed by the Apache Foundation All of the software developed by the CNCF All of the software developed by the OpenStack Foundation  Projects like Envoy were free software islands even before they joined a foundation (the CNCF in this case).</description>
+    </item>
+    
+    <item>
+      <title>Loose Open Core</title>
+      <link>https://sfosc.org/business-models/loose-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 11:45:36 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/loose-open-core/</guid>
+      <description>Loose Open Core is a model where the software has its primary functionality covered under an open source license (the &amp;ldquo;core&amp;rdquo;), with proprietary software wrapped around it. This model encourages widespread distribution of the core software, and tries to ensure that enough value exists in the proprietary software around it to convince their target market to make a purchase.
+Who uses it?  Chef Software Puppet Hashicorp  When should it be used?</description>
+    </item>
+    
+    <item>
+      <title>Tight Open Core</title>
+      <link>https://sfosc.org/business-models/tight-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 12:01:01 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/tight-open-core/</guid>
+      <description>Tight Open Core is a model where the software has its primary functionality covered under an open source license (the &amp;ldquo;core&amp;rdquo;), but has direct (often critical) features that are only available under a proprietary license.
+Take, for example, the feature of authentication and authorization. Some amount of these are critical for almost all software. In a Tight Open Core model, this functionality will not exist in the open source core: instead, it will be pushed to either proprietary plugins or exist only in fully proprietary builds.</description>
+    </item>
+    
+    <item>
+      <title>Dual Licensing</title>
+      <link>https://sfosc.org/business-models/dual-licensing/</link>
+      <pubDate>Thu, 06 Dec 2018 12:15:31 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/dual-licensing/</guid>
+      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the softwares copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell propreitary versions, while restricting the rights of others to do the same.</description>
+    </item>
+    
+    <item>
+      <title>As a Service</title>
+      <link>https://sfosc.org/business-models/as-a-service/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/as-a-service/</guid>
+      <description>The As a Service model is when the software is released under an open source license, and available for anyone to run, while also being made available As a Service by the company.
+Who Uses it?  Discourse MongoDB  When should it be used? When the software is primarily consumer oriented, or has a large operational overhead. The goal here is that the software has the simplest on-ramp possible, and requires no effort to maintain over time.</description>
+    </item>
+    
+    <item>
+      <title>Donations</title>
+      <link>https://sfosc.org/business-models/donations/</link>
+      <pubDate>Thu, 06 Dec 2018 12:49:15 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/donations/</guid>
+      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but lets go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
+Who uses it?  Vim Webpack  When should it be used? When the project is core infrastructure, primarily run by volunteers, or simply to do good in the world.
+What kind of monetization is possible? Anything that is valid under the license.</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://sfosc.org/business-models/support/</link>
+      <pubDate>Thu, 06 Dec 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/support/</guid>
+      <description>The Support model is one where the software is available under an open source license, but in order to have the company available to answer questions, assist in implementation, etc., you must purchase a support contract.
+This model is often confused for the Free Software Product model.
+Who Uses it?  XenSource (very early on - moved to loose open core over time) Ntop  When should it be used?</description>
+    </item>
+    
+    <item>
+      <title>Free Software Product</title>
+      <link>https://sfosc.org/business-models/free-software-product/</link>
+      <pubDate>Thu, 06 Dec 2018 14:48:18 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/free-software-product/</guid>
+      <description>The Free Software Product model has 100% of the software covered by an open source license, but distributes the software as a complete, supported product under a proprietary license.
+Free Software Product companies use their trademark rights, along with the license of the software itself, to create proprietary derivatives. If there is a 100% open source distribution, it uses different trademarks and naming conventions, and receives little or no direct support for users from the upstream.</description>
+    </item>
+    
   </channel>
 </rss>

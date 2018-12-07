@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Free Software Island</title>
+      <link>https://sfosc.org/business-models/free-software-island/</link>
+      <pubDate>Thu, 06 Dec 2018 11:29:21 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/free-software-island/</guid>
+      <description>A Free Software Island is a project, usually enabled by a foundation, where everyone agrees the software is created purely for the public good. Individuals and businesses alike agree to co-operate with each other on the software that is contained on the island, for mutual benefit.
+Who uses it?  All of the software developed by the Apache Foundation All of the software developed by the CNCF All of the software developed by the OpenStack Foundation  Projects like Envoy were free software islands even before they joined a foundation (the CNCF in this case).</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://sfosc.org/sfosc-book/introduction/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
@@ -22,12 +32,32 @@ Since the term Open Source was first adopted in 1997, it has become the dominant
     </item>
     
     <item>
+      <title>Loose Open Core</title>
+      <link>https://sfosc.org/business-models/loose-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 11:45:36 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/loose-open-core/</guid>
+      <description>Loose Open Core is a model where the software has its primary functionality covered under an open source license (the &amp;ldquo;core&amp;rdquo;), with proprietary software wrapped around it. This model encourages widespread distribution of the core software, and tries to ensure that enough value exists in the proprietary software around it to convince their target market to make a purchase.
+Who uses it?  Chef Software Puppet Hashicorp  When should it be used?</description>
+    </item>
+    
+    <item>
       <title>Motivations</title>
       <link>https://sfosc.org/sfosc-book/motivations/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
       <guid>https://sfosc.org/sfosc-book/motivations/</guid>
       <description>For my own part, I started my journey with Free Software in 1994, with a copy of Slackware I installed from floppies. I had been running a BBS for years, and I had become an operating system nerd because I wanted true multi-tasking. I was so proud of running a copy of OS/2 Warp. Slackware changed everything for me - I could see the source code, read the man pages. I could do anything I wanted.</description>
+    </item>
+    
+    <item>
+      <title>Tight Open Core</title>
+      <link>https://sfosc.org/business-models/tight-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 12:01:01 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/tight-open-core/</guid>
+      <description>Tight Open Core is a model where the software has its primary functionality covered under an open source license (the &amp;ldquo;core&amp;rdquo;), but has direct (often critical) features that are only available under a proprietary license.
+Take, for example, the feature of authentication and authorization. Some amount of these are critical for almost all software. In a Tight Open Core model, this functionality will not exist in the open source core: instead, it will be pushed to either proprietary plugins or exist only in fully proprietary builds.</description>
     </item>
     
     <item>
@@ -41,6 +71,15 @@ Since the term Open Source was first adopted in 1997, it has become the dominant
     </item>
     
     <item>
+      <title>Dual Licensing</title>
+      <link>https://sfosc.org/business-models/dual-licensing/</link>
+      <pubDate>Thu, 06 Dec 2018 12:15:31 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/dual-licensing/</guid>
+      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the softwares copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell propreitary versions, while restricting the rights of others to do the same.</description>
+    </item>
+    
+    <item>
       <title>Designing a Sustainable Institution</title>
       <link>https://sfosc.org/sfosc-book/institutions/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
@@ -51,6 +90,16 @@ Therefore, we need to design an institution that supports and governs the commun
     </item>
     
     <item>
+      <title>As a Service</title>
+      <link>https://sfosc.org/business-models/as-a-service/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/as-a-service/</guid>
+      <description>The As a Service model is when the software is released under an open source license, and available for anyone to run, while also being made available As a Service by the company.
+Who Uses it?  Discourse MongoDB  When should it be used? When the software is primarily consumer oriented, or has a large operational overhead. The goal here is that the software has the simplest on-ramp possible, and requires no effort to maintain over time.</description>
+    </item>
+    
+    <item>
       <title>Setting up Rawls&#39; Game</title>
       <link>https://sfosc.org/sfosc-book/rawls_for_foss/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
@@ -58,6 +107,17 @@ Therefore, we need to design an institution that supports and governs the commun
       <guid>https://sfosc.org/sfosc-book/rawls_for_foss/</guid>
       <description>To begin, we have to decide what the primary goods are. What is the thing we want, whatsoever else we might want. We can take for granted Rawls list (freedom of expression, etc), since we are scoping things down to our sustainable open source community. In its place, a reasonable statement of the primary good we want is:
  We want the software to exist, to solve our problem, to continue to improve, and to be available for our use.</description>
+    </item>
+    
+    <item>
+      <title>Donations</title>
+      <link>https://sfosc.org/business-models/donations/</link>
+      <pubDate>Thu, 06 Dec 2018 12:49:15 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/donations/</guid>
+      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but lets go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
+Who uses it?  Vim Webpack  When should it be used? When the project is core infrastructure, primarily run by volunteers, or simply to do good in the world.
+What kind of monetization is possible? Anything that is valid under the license.</description>
     </item>
     
     <item>
@@ -72,6 +132,17 @@ The dictatorship model has an individual, often the founder, holding 100% of the
     </item>
     
     <item>
+      <title>Support</title>
+      <link>https://sfosc.org/business-models/support/</link>
+      <pubDate>Thu, 06 Dec 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/support/</guid>
+      <description>The Support model is one where the software is available under an open source license, but in order to have the company available to answer questions, assist in implementation, etc., you must purchase a support contract.
+This model is often confused for the Free Software Product model.
+Who Uses it?  XenSource (very early on - moved to loose open core over time) Ntop  When should it be used?</description>
+    </item>
+    
+    <item>
       <title>Contribution and Distribtion</title>
       <link>https://sfosc.org/sfosc-book/contribution_and_distribution/</link>
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
@@ -79,6 +150,16 @@ The dictatorship model has an individual, often the founder, holding 100% of the
       <guid>https://sfosc.org/sfosc-book/contribution_and_distribution/</guid>
       <description>Having established the rules for governance and behavior for the community at large, we can turn to the terms under which work is contributed to the community, and how it is distributed to others. To cover this, we need to introduce the different levers at our disposal: copyrights, trademarks, patents, terms of distribution (end user license agreements, or EULAs), and terms of service.
 (As an aside: these terms are not defined or enforced in the same way around the globe.</description>
+    </item>
+    
+    <item>
+      <title>Free Software Product</title>
+      <link>https://sfosc.org/business-models/free-software-product/</link>
+      <pubDate>Thu, 06 Dec 2018 14:48:18 -0800</pubDate>
+      
+      <guid>https://sfosc.org/business-models/free-software-product/</guid>
+      <description>The Free Software Product model has 100% of the software covered by an open source license, but distributes the software as a complete, supported product under a proprietary license.
+Free Software Product companies use their trademark rights, along with the license of the software itself, to create proprietary derivatives. If there is a 100% open source distribution, it uses different trademarks and naming conventions, and receives little or no direct support for users from the upstream.</description>
     </item>
     
     <item>
