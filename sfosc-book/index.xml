@@ -66,7 +66,7 @@ Therefore, we need to design an institution that supports and governs the commun
       
       <guid>https://sfosc.org/sfosc-book/governance/</guid>
       <description>Lets start by evaluating how to provide fair equality of opportunity for the direction of the project. I see three common models:
- Dictatorships, such as Linux, Python, and Chef. Self organizing with loose consensus, as best seen in the Rust community. Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.  How does each stack up to Rawls principles?
+ Dictatorships, such as Linux, Python, and Chef. Self organizing with loose consensus, as best seen in the Rust community. Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.  How does each stack up to Rawls&amp;rsquo; principles?
 The dictatorship model has an individual, often the founder, holding 100% of the authority over the projects direction.</description>
     </item>
     
@@ -95,7 +95,7 @@ The dictatorship model has an individual, often the founder, holding 100% of the
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
       <guid>https://sfosc.org/sfosc-book/the_way_forward/</guid>
-      <description>We can pull all of this together with set of of sustainable open source community principles - these are the guidelines we should follow if we want to create a sustainable open source community. Then we can create specific implementations of these principles for our communities - social contracts that spell out the communities intentions, their relationship to monetization, and the principles upon which they will thrive: their community social contract.</description>
+      <description>We can pull all of this together with set of of sustainable open source community principles - these are the guidelines we should follow if we want to create a sustainable open source community. Then we can create specific implementations of these principles for our communities - social contracts that spell out the communities&amp;rsquo; intentions, their relationship to monetization, and the principles upon which they will thrive: their community social contract.</description>
     </item>
     
   </channel>

@@ -75,7 +75,7 @@ Take, for example, the feature of authentication and authorization. Some amount 
       <pubDate>Thu, 06 Dec 2018 12:15:31 -0800</pubDate>
       
       <guid>https://sfosc.org/business-models/dual-licensing/</guid>
-      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the softwares copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell propreitary versions, while restricting the rights of others to do the same.</description>
+      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the software&amp;rsquo;s copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell proprietary versions, while restricting the rights of others to do the same.</description>
     </item>
     
     <item>
@@ -114,7 +114,7 @@ Who Uses it?  Discourse MongoDB  When should it be used? When the software is pr
       <pubDate>Thu, 06 Dec 2018 12:49:15 -0800</pubDate>
       
       <guid>https://sfosc.org/business-models/donations/</guid>
-      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but lets go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
+      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but let&amp;rsquo;s go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
 Who uses it?  Vim Webpack  When should it be used? When the project is core infrastructure, primarily run by volunteers, or simply to do good in the world.
 What kind of monetization is possible? Anything that is valid under the license.</description>
     </item>
@@ -126,7 +126,7 @@ What kind of monetization is possible? Anything that is valid under the license.
       
       <guid>https://sfosc.org/sfosc-book/governance/</guid>
       <description>Lets start by evaluating how to provide fair equality of opportunity for the direction of the project. I see three common models:
- Dictatorships, such as Linux, Python, and Chef. Self organizing with loose consensus, as best seen in the Rust community. Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.  How does each stack up to Rawls principles?
+ Dictatorships, such as Linux, Python, and Chef. Self organizing with loose consensus, as best seen in the Rust community. Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.  How does each stack up to Rawls&amp;rsquo; principles?
 The dictatorship model has an individual, often the founder, holding 100% of the authority over the projects direction.</description>
     </item>
     
@@ -176,7 +176,7 @@ Free Software Product companies use their trademark rights, along with the licen
       <pubDate>Thu, 29 Nov 2018 12:13:12 -0800</pubDate>
       
       <guid>https://sfosc.org/sfosc-book/the_way_forward/</guid>
-      <description>We can pull all of this together with set of of sustainable open source community principles - these are the guidelines we should follow if we want to create a sustainable open source community. Then we can create specific implementations of these principles for our communities - social contracts that spell out the communities intentions, their relationship to monetization, and the principles upon which they will thrive: their community social contract.</description>
+      <description>We can pull all of this together with set of of sustainable open source community principles - these are the guidelines we should follow if we want to create a sustainable open source community. Then we can create specific implementations of these principles for our communities - social contracts that spell out the communities&amp;rsquo; intentions, their relationship to monetization, and the principles upon which they will thrive: their community social contract.</description>
     </item>
     
     <item>
@@ -185,7 +185,7 @@ Free Software Product companies use their trademark rights, along with the licen
       <pubDate>Thu, 29 Nov 2018 12:13:32 -0800</pubDate>
       
       <guid>https://sfosc.org/social-contracts/donation/</guid>
-      <description>Introduction This document describe the social contract for the community around a piece of open source software (&amp;ldquo;the software&amp;rdquo;). It lays out the moral and ethical rules the community agrees to in order to ensure a long, healthy, sustainable life for the software.
+      <description>Introduction This document describes the social contract for the community around a piece of open source software (&amp;ldquo;the software&amp;rdquo;). It lays out the moral and ethical rules the community agrees to in order to ensure a long, healthy, sustainable life for the software.
 It is not a legal agreement, although sections of it reference legal agreements. It is a moral and ethical one - it is the foundation upon which the community is built.</description>
     </item>
     

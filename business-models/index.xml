@@ -47,7 +47,7 @@ Take, for example, the feature of authentication and authorization. Some amount 
       <pubDate>Thu, 06 Dec 2018 12:15:31 -0800</pubDate>
       
       <guid>https://sfosc.org/business-models/dual-licensing/</guid>
-      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the softwares copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell propreitary versions, while restricting the rights of others to do the same.</description>
+      <description>Dual Licensing is a model where the software is released under an open source license, almost always a copyleft license, but has a single entity with full control of the software&amp;rsquo;s copyright. This enables the company to re-license the software as they see fit - either to sell it under a non-copyleft license, to run it as a service, or to sell proprietary versions, while restricting the rights of others to do the same.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ Who Uses it?  Discourse MongoDB  When should it be used? When the software is pr
       <pubDate>Thu, 06 Dec 2018 12:49:15 -0800</pubDate>
       
       <guid>https://sfosc.org/business-models/donations/</guid>
-      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but lets go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
+      <description>Not really a &amp;ldquo;business model&amp;rdquo;, but let&amp;rsquo;s go with it anyway. The donations model is when the project sets up a system of donations, which are used to sustain the project.
 Who uses it?  Vim Webpack  When should it be used? When the project is core infrastructure, primarily run by volunteers, or simply to do good in the world.
 What kind of monetization is possible? Anything that is valid under the license.</description>
     </item>
