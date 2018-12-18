@@ -95,7 +95,7 @@ Therefore, we need to design an institution that supports and governs the commun
       
       <guid>https://sfosc.org/business-models/as-a-service/</guid>
       <description>The As a Service model is when the software is released under an open source license, and available for anyone to run, while also being made available As a Service by the company.
-Who Uses it?  Discourse MongoDB  When should it be used? When the software is primarily consumer oriented, or has a large operational overhead. The goal here is that the software has the simplest on-ramp possible, and requires no effort to maintain over time.</description>
+Who Uses it?  Discourse MongoDB WordPress  When should it be used? When the software is primarily consumer oriented, or has a large operational overhead. The goal here is that the software has the simplest on-ramp possible, and requires no effort to maintain over time.</description>
     </item>
     
     <item>
