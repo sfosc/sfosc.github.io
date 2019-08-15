@@ -1,0 +1,33 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFOSC – New Releases</title>
+    <link>https://sfosc.org/blog/releases/</link>
+    <description>Recent content in New Releases on SFOSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://sfosc.org/blog/releases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Blog: July 2019 Documentation</title>
+      <link>https://sfosc.org/blog/2019/07/20/july-2019-documentation/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sfosc.org/blog/2019/07/20/july-2019-documentation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This is a new release of the sfosc documentation base. A release will be
+posted here.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

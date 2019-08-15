@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFOSC – Principles</title>
+    <link>https://sfosc.org/docs/principles/</link>
+    <description>Recent content in Principles on SFOSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:40:54 -0800</lastBuildDate>
+    
+	  <atom:link href="https://sfosc.org/docs/principles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

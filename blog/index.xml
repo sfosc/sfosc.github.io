@@ -1,0 +1,56 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFOSC – SFOSC Blog</title>
+    <link>https://sfosc.org/blog/</link>
+    <description>Recent content in SFOSC Blog on SFOSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://sfosc.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Blog: SFOSC Has a New Documentation Theme!</title>
+      <link>https://sfosc.org/blog/2019/07/20/sfosc-has-a-new-documentation-theme/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sfosc.org/blog/2019/07/20/sfosc-has-a-new-documentation-theme/</guid>
+      <description>
+        
+        
+        &lt;p&gt;We were having a hard time fitting in business models, a book, news, and other
+content that didn&amp;rsquo;t seem to fit in any of these categories, and so we found
+a new theme,  &lt;a href=&#34;https://github.com/google/docsy&#34; target=&#34;_blank&#34;&gt;Docsy&lt;/a&gt; that allows us much
+more freedom to do that!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfosc.org/docs/&#34;&gt;Documentation&lt;/a&gt;: Is found under the &amp;ldquo;docs&amp;rdquo; base, with an easy to use navigation bar on the left, and links to edit or ask a question on the right.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfosc.org/blog/&#34;&gt;Blog&lt;/a&gt;: is what you are reading now! We can both write news posts, and announce new releases.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfosc.org/community/&#34;&gt;Community&lt;/a&gt; is a resource to help you easily find community links.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Blog: July 2019 Documentation</title>
+      <link>https://sfosc.org/blog/2019/07/20/july-2019-documentation/</link>
+      <pubDate>Sat, 20 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sfosc.org/blog/2019/07/20/july-2019-documentation/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This is a new release of the sfosc documentation base. A release will be
+posted here.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

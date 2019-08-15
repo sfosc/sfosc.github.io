@@ -1,0 +1,565 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFOSC – Business Models</title>
+    <link>https://sfosc.org/docs/business-models/</link>
+    <description>Recent content in Business Models on SFOSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://sfosc.org/docs/business-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: None</title>
+      <link>https://sfosc.org/docs/business-models/none/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/none/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;No business model&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;This is a common archetype for Sustainable Free and Open Source Communities.
+The business model is to &lt;em&gt;not have a business model&lt;/em&gt;. That is okay, because
+not every sustainable open source project needs or wants a business model.&lt;/p&gt;
+
+&lt;p&gt;In this case the project has set up means and rules of collaboration, has a
+formal membership, usually without a formal position of authority or any other
+hierarchy and does &lt;strong&gt;not&lt;/strong&gt; deal with monetary contributions.&lt;/p&gt;
+
+&lt;p&gt;Sustainability in this non-model focuses on collaborator growth (quality and
+quantity) and shared responsibility to address its biggest risk: contributor
+churn.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sfosc.org/&#34; target=&#34;_blank&#34;&gt;sfosc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.freedesktop.org/wiki/Software/systemd/&#34; target=&#34;_blank&#34;&gt;systemd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://zsh.org/&#34; target=&#34;_blank&#34;&gt;zsh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;In the early phase of projects when it&amp;rsquo;s not clear that the idea/implementation
+is a viable option in the free software ecosystem. Or when it&amp;rsquo;s clear from the
+beginning, that the target audience is rather limited in size.&lt;/p&gt;
+
+&lt;p&gt;Sometimes this model is also used as a way out of entrenched corporate
+influence. Incubating a new project, while blacking out monetary interests,
+trying to supersede the fought-over-project by technical means. Kind of a fork
+of the problem space (not the technology), resetting the relationship of the
+involved parties. A prominent example for this would be systemd or the GNOME
+desktop environment.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Cash flow is avoided in this model because there is no legal entity behind the
+project (just individuals) that can handle the added complexity (control,
+reporting, taxes etc.) that monetization brings.&lt;/p&gt;
+
+&lt;p&gt;The individuals involved cover the development costs for the project by
+donating their time. Infrastructure costs are avoided by utilizing free to use
+plans of services like gitlab/github, travis-ci/circle-ci, netlify etc. or by
+donations of goods by members (like paying for a domain name etc.).&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Yes. This model can be applied for a very long time as long as the community
+sucessfully addresses contributor churn.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Support</title>
+      <link>https://sfosc.org/docs/business-models/support/</link>
+      <pubDate>Thu, 06 Dec 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/support/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Software is available under an open source license, and support is provided for a fee.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The Support model is one where the software is available under an open source license,
+but in order to have the company available to answer questions, assist in implementation,
+etc., you must purchase a support contract.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sfosc.org/docs/business-models/free-software-product/&#34;&gt;This model is often confused for the Free Software Product model&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who Uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;XenSource (very early on - moved to loose open core over time)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ntop.org/&#34; target=&#34;_blank&#34;&gt;Ntop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.zabbix.com&#34; target=&#34;_blank&#34;&gt;Zabbix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mysql.com&#34; target=&#34;_blank&#34;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;This is typically an early way to bring in revenue for an open source project. If/when
+the company or project needs to scale, it tends to transition into another model.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kinds-of-monetization-is-possible&#34;&gt;What kinds of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Any, essentially.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Tight Open Core</title>
+      <link>https://sfosc.org/docs/business-models/tight-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/tight-open-core/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Software has primary functionality covered under an open source license (the core)
+  but has direct (often critical) features that are only available under a proprietary license.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Tight Open Core is a model where the software has its primary functionality
+covered under an open source license (the &amp;ldquo;core&amp;rdquo;), but has direct (often
+critical) features that are only available under a proprietary license.&lt;/p&gt;
+
+&lt;p&gt;Take, for example, the feature of authentication and authorization. Some amount
+of these are critical for almost all software. In a Tight Open Core model, this
+functionality will not exist in the open source core: instead, it will be pushed to
+either proprietary plugins or exist only in fully proprietary builds.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who Uses It?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.elastic.co&#34; target=&#34;_blank&#34;&gt;Elastic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.neo4j.com&#34; target=&#34;_blank&#34;&gt;Neo4j&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gitlab.com&#34; target=&#34;_blank&#34;&gt;GitLab&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;Frequently used by venture backed startups, with a single company putting in the
+bulk of the engineering and product resources. The goal is to have successful enough
+core offering to generate substantial demand for the proprietary functionality.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;These types of software are usually intended to be monetized from the beginning,
+although some (like Elastic) have shifted to this model over time. With this
+model, it is easier to determine if a given piece of functionality should be in
+the core or not: if it is critical to the success of your target market, it should
+be proprietary.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;No. There is evidence it is more effective as a business model than its cousin,
+&lt;a href=&#34;https://sfosc.org/docs/business-models/loose-open-core&#34;&gt;loose open core&lt;/a&gt;. However, the
+dynamics of keeping vital functionality out of the core means that, should the
+community decide to replicate the feature, it is directly at odds with the company&amp;rsquo;s
+monetization model.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: As a Service</title>
+      <link>https://sfosc.org/docs/business-models/as-a-service/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/as-a-service/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;The As a Service model is for software released under an open source license, and available
+as a service by the company.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The As a Service model is when the software is released under an open source
+license, and available for anyone to run, while also being made available As
+a Service by the company.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who Uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://discourse.org&#34; target=&#34;_blank&#34;&gt;Discourse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.mongodb.com/&#34; target=&#34;_blank&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://wordpress.org/&#34; target=&#34;_blank&#34;&gt;WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;When the software is primarily consumer oriented, or has a large operational
+overhead. The goal here is that the software has the simplest on-ramp possible,
+and requires no effort to maintain over time.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;In its most pure form, such as Discourse, the software is always 100% free. That means
+that, while there is often a single company offering it as a service, the community
+itself is free to do so as well.&lt;/p&gt;
+
+&lt;p&gt;In other cases, the software will be covered under an aggressive form of
+copyleft, potentially combined with &lt;a href=&#34;https://sfosc.org/docs/business-models/dual-licensing/&#34;&gt;dual licensing&lt;/a&gt;, or non-free licenses (such as the &lt;a href=&#34;https://commonsclause.com&#34; target=&#34;_blank&#34;&gt;commons clause&lt;/a&gt;) may be
+used to create a monopoly on offering the software as a service.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Maybe. With the example of Discourse above, the answer is yes. The community is
+sustained through the service, but any member of the community would be free to
+compete. With any model that uses dual licensing combined with aggressive copyleft,
+or non-free licenses, it trades the &lt;a href=&#34;https://sfosc.org/docs/principles/&#34;&gt;fundamental liberties in the core commitment&lt;/a&gt; for revenue.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Donations</title>
+      <link>https://sfosc.org/docs/business-models/donations/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/donations/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;When a system of donations is set up to sustain a project.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Not really a &amp;ldquo;business model&amp;rdquo;, but let&amp;rsquo;s go with it anyway. The donations model is when
+the project sets up a system of donations, which are used to sustain the project.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.vim.org&#34; target=&#34;_blank&#34;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://webpack.js.org&#34; target=&#34;_blank&#34;&gt;Webpack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;When the project is core infrastructure, primarily run by volunteers, or simply to
+do good in the world.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Anything that is valid under the license. In this model, though, sponsorship and
+individuals alike are solicited to cover the infrastructure and development costs
+for the project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://opencollective.com/webpack&#34; target=&#34;_blank&#34;&gt;Take a look at the Webpack Open Collective&lt;/a&gt; for a
+great example of the donation model in action.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Yes.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Dual Licensing</title>
+      <link>https://sfosc.org/docs/business-models/dual-licensing/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/dual-licensing/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;The software is released under an open source license, but has a single entity with full control of the
+  software&amp;rsquo;s copyright.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Dual Licensing is a model where the software is released under an open source
+license, almost always a &lt;a href=&#34;https://en.wikipedia.org/wiki/Copyleft&#34; target=&#34;_blank&#34;&gt;copyleft
+license&lt;/a&gt;, but has a single entity with
+full control of the software&amp;rsquo;s copyright. This enables the company to re-license the
+software as they see fit - either to sell it under a non-copyleft license, to
+run it as a service, or to sell proprietary versions, while restricting the rights of others to do the same.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who Uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://mysql.com&#34; target=&#34;_blank&#34;&gt;MySQL&lt;/a&gt; (as a secondary model)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mongodb.com&#34; target=&#34;_blank&#34;&gt;MongoDB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;A tool used primarily by venture backed startups, with a single company in
+control of the asset. The goal here is that the software is useful to a wide market
+with the copyleft terms attached, but for certain segments of the market, or to
+create your own proprietary derivative, you retain the rights to remove the copyleft.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Depending on the type of copyleft license, it ranges from simply selling identical
+software without copyleft terms (for embedding, as an example), to being
+allowed to run the software as a service, to being allowed to build fully
+proprietary distributions with enhanced functionality.&lt;/p&gt;
+
+&lt;p&gt;In any case, it is used to create a functional monopoly on monetization for the company.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;No. It trades the &lt;a href=&#34;https://sfosc.org/docs/principles/&#34;&gt;fundamental liberties in the core commitment&lt;/a&gt; in exchange for revenue.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Free Software Island</title>
+      <link>https://sfosc.org/docs/business-models/free-software-island/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/free-software-island/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;A project (usually enabled by a foundation) where everyone agrees that the software
+  is created purely for the public good.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;A Free Software Island is a project, usually enabled by a foundation, where
+everyone agrees the software is created purely for the public good. Individuals
+and businesses alike agree to co-operate with each other on the software that
+is contained on the island, for mutual benefit.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://apache.org&#34; target=&#34;_blank&#34;&gt;All of the software developed by the Apache Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cncf.io&#34; target=&#34;_blank&#34;&gt;All of the software developed by the CNCF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.openstack.org&#34; target=&#34;_blank&#34;&gt;All of the software developed by the OpenStack Foundation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Projects like &lt;a href=&#34;https://www.envoyproxy.io&#34; target=&#34;_blank&#34;&gt;Envoy&lt;/a&gt; were free software islands even
+before they joined a foundation (the CNCF in this case).&lt;/p&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;If the project will have many collaborators, often large institutional ones,
+then a free software island may be the best home for it. While being on a free
+software island does not guarantee this kind of collaboration, it is designed
+for it.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Often, there is no direct monetization of the projects allowed at all. The
+Apache Foundation, for example, is very clear on this.&lt;/p&gt;
+
+&lt;p&gt;Instead, there are often downstream monetization of the software. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The relationship between &lt;a href=&#34;https://cassandra.apache.org&#34; target=&#34;_blank&#34;&gt;Apache Cassandra&lt;/a&gt; and
+&lt;a href=&#34;https://www.datastax.com&#34; target=&#34;_blank&#34;&gt;DataStax&lt;/a&gt; - Cassandra is upstream, and DataStax is
+a proprietary downstream for Cassandra.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://kubernetes.io&#34; target=&#34;_blank&#34;&gt;Kubernetes&lt;/a&gt; has a myriad of downstream monetization -
+companies with proprietary software offerings built on top, open source product extensions
+such as &lt;a href=&#34;https://www.openshift.com&#34; target=&#34;_blank&#34;&gt;OpenShift&lt;/a&gt;, and cloud providers offering it
+as a service.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Yes. The only risks in this model are that it only affirms the rights of the
+community within the island itself - it may result in the creation of more proprietary
+software, outside the community&amp;rsquo;s sphere of influence.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Free Software Product</title>
+      <link>https://sfosc.org/docs/business-models/free-software-product/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/free-software-product/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Has 100% of the software covered by an open source license, but distributes the software
+  as a supported product under a proprietary license.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;The Free Software Product model has 100% of the software covered by an open
+source license, but distributes the software as a complete, supported product
+under a proprietary license.&lt;/p&gt;
+
+&lt;p&gt;Free Software Product companies use their trademark rights, along with the license
+of the software itself, to create proprietary derivatives. If there is a 100%
+open source distribution, it uses different trademarks and naming conventions, and
+receives little or no direct support for users from the upstream.&lt;/p&gt;
+
+&lt;p&gt;A cornerstone of this model is that the company produces little or no proprietary
+software. It allows the community to collaborate and makes it harder for proprietary
+derivatives to thrive.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who Uses It&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.redhat.com&#34; target=&#34;_blank&#34;&gt;Red Hat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;When a single company provides the bulk of the effort to create and sustain
+the project, and has a clear target market for the product (typically the large
+enterprise).&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;Any kind of monetization is possible on the product. Because it is being distributed
+under proprietary terms, the options for monetization are unlimited. For those who
+might wish to create downstream versions of the project, they too are free to monetize
+as they see fit.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Yes. By keeping 100% of the software open source, and not producing any proprietary
+features, the community is free to collaborate with the upstream. A 100% free downstream
+distribution can be created, and distributed - optionally with complete monetization.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Loose Open Core</title>
+      <link>https://sfosc.org/docs/business-models/loose-open-core/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/business-models/loose-open-core/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Primary functionality is covered under an open source license (the core), and
+  proprietary software is wrapped around it.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Loose Open Core is a model where the software has its primary functionality
+covered under an open source license (the &amp;ldquo;core&amp;rdquo;), with proprietary software
+wrapped around it. This model encourages widespread distribution of the core
+software, and tries to ensure that enough value exists in the proprietary
+software around it to convince their target market to make a purchase.&lt;/p&gt;
+
+&lt;h3 id=&#34;who-uses-it&#34;&gt;Who uses it?&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://chef.io&#34; target=&#34;_blank&#34;&gt;Chef Software&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://puppet.com&#34; target=&#34;_blank&#34;&gt;Puppet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hashicorp.com&#34; target=&#34;_blank&#34;&gt;Hashicorp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;when-should-it-be-used&#34;&gt;When should it be used?&lt;/h3&gt;
+
+&lt;p&gt;This is model that is frequently used by venture backed startups, where a single
+company puts in the bulk of the engineering and product resources. If the core
+project is successful, it leads to a large funnel of users that can then be
+sold the proprietary software.&lt;/p&gt;
+
+&lt;p&gt;If the core of the software has broad applicability to a wide market, and you
+can envision a proprietary product targeted at some segment of the market, this
+model can work well.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-kind-of-monetization-is-possible&#34;&gt;What kind of monetization is possible?&lt;/h3&gt;
+
+&lt;p&gt;These communities are often monetized from the beginning, or at least are intended
+to be. The difficulty with this model is that it can be hard to determine where the
+right line is for a given feature - does it belong to the proprietary software, or
+the open core?&lt;/p&gt;
+
+&lt;p&gt;Typically, there is a single company that monetizes the core software.&lt;/p&gt;
+
+&lt;h3 id=&#34;does-this-model-help-create-a-sustainable-free-and-open-source-community&#34;&gt;Does this model help create a Sustainable Free and Open Source Community?&lt;/h3&gt;
+
+&lt;p&gt;Maybe. If we treat the core software as essentially a free software island with a
+single downstream derivative, then yes, assuming others are allowed to also build
+proprietary software around the core.&lt;/p&gt;
+
+&lt;p&gt;However, this is often murky - since the company&amp;rsquo;s strategy depends on convincing
+a segment of the population that they must purchase the proprietary software, it
+will be easy for the company to turn to other models, which may mean it is no
+longer sustainable by the community.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

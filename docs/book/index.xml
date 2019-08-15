@@ -1,0 +1,1503 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFOSC – The Sustainable Free and Open Source Communities Book</title>
+    <link>https://sfosc.org/docs/book/</link>
+    <description>Recent content in The Sustainable Free and Open Source Communities Book on SFOSC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="https://sfosc.org/docs/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Docs: Introduction</title>
+      <link>https://sfosc.org/docs/book/introduction/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/introduction/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The free and open source community is in a deeper state of introspection than
+at any time in its history. We are thinking through and having conversations
+about &amp;ldquo;sustainable business models&amp;rdquo; and the rise of &amp;ldquo;as a service&amp;rdquo; behemoths in
+AWS, Google and Microsoft. We are asking ourselves if ethics have a place in
+our governance and licensing models. We are questioning the fundamental values
+and ideas of the movement itself.&lt;/p&gt;
+
+&lt;p&gt;Since the term &amp;ldquo;Open Source&amp;rdquo; was first adopted in 1997, it has become the
+dominant software development model around the world. Back then, it was
+a cutting-edge idea - participating in open source was a radical act. Simply
+participating in it required a philosophical background. Today, you can
+actively participate in Open Source without any background at all in its
+philosophy. Open Source is in the water for the new generation of software
+developers.&lt;/p&gt;
+
+&lt;p&gt;Along with the rise in open source development, the number of open source
+companies has also skyrocketed. Consulting companies, service providers,
+managed services, and venture-backed startups abound. This influx of capital
+into the production of open source software fuels our growth. Open Source is
+eating the world not only because the Bazaar is better for development. It is
+good business.&lt;/p&gt;
+
+&lt;p&gt;This business often happens as direct product revenue&amp;ndash;selling open source
+products to customers. More frequently, it happens when open source software is
+one component enabling a business to generate revenue. This massive influx of
+capital, on both sides of the equation, raises interesting questions. Can open
+source software at this scale exist without businesses funding it? Are we
+comfortable with how it is used? Where does the community begin and end? Who
+can take part in the community, how, and why? Who can profit from the software,
+and how?&lt;/p&gt;
+
+&lt;p&gt;35 years have passed since Richard Stallman introduced us to the idea of Free
+Software. 20 years since the dawn of the Open Source era at Netscape. Why are
+we building open source software in the first place? What is it good for? Who
+does it serve? How do we ensure that, no matter what happens, or who
+participates in our community, that the work we do serves us all? It is time to
+reassess our fundamental principles.&lt;/p&gt;
+
+&lt;p&gt;This is my attempt to start that conversation in earnest. I believe the path
+forward requires a restatement of our fundamental principles and goals. It
+leads to a new, intentional, sustainable model for designing our open source
+communities. It embraces the existence of capital in the system. It reconciles
+the existence of open source projects with open source products. It is
+inclusive of everyone who wants to participate.&lt;/p&gt;
+
+&lt;p&gt;The result is the creation of the &lt;em&gt;Sustainable Free and Open Source Community&lt;/em&gt;
+(SFOSC) project. There are three parts. The first is the &amp;ldquo;Principles&amp;rdquo; - a list
+of requirements for a sustainable free and open source community. The second is
+a set of &amp;ldquo;Community Social Contracts&amp;rdquo;, the number of which should grow over
+time. These are explicit social contracts that all participants can agree to
+and understand. Think of it like Creative Commons, but for community
+agreements. This document is the last piece - it is the explanation of how
+I arrived at the beginning of this journey. My hope is that it provides
+a baseline of knowledge for future collaboration, in the open, as a community.
+Together, we will evolve the principles, publish many social contracts, and can
+talk about the trade-offs we make in choosing one contract over the other.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll begin with a statement of my own background and motivations. I want my
+own biases to be as clear as possible, so they can be challenged as we build on
+these ideas together. The rest is an explanation of the model and analysis
+I used to arrive at the &amp;ldquo;Principles&amp;rdquo;. I look forward to refining these
+principles with you, and using them to develop clear social contracts. I&amp;rsquo;m
+excited to explore how we can build sustainable communities together.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Motivations</title>
+      <link>https://sfosc.org/docs/book/motivations/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/motivations/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Why did I create this resource?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;For my own part, I started my journey with Free Software in 1994, with a copy
+of Slackware I installed from floppies. I had been running a Bulletin board
+system (BBS) for years, and I had become an operating system nerd because I
+wanted true multi-tasking. I was so proud of running a copy of OS/2 Warp.
+Slackware changed everything for me - I could see the source code, read the
+man pages. I could do anything I wanted. I was one of the first people in my
+circle with dial up internet - so I let my friends call my BBS, enter a
+passphrase, and then use Linux to dial out via my ISP. It was awesome, and I
+was all in on Linux.&lt;/p&gt;
+
+&lt;p&gt;That led me to a career as a systems administrator. I worked for a series of
+regional internet service providers, and then for a series of web companies.
+Throughout, the free software community supported me and mentored me. The Perl
+community, particularly on Internet Relay Communications (IRC), taught me how to
+be a programmer. The CFEngine and Puppet communities taught me how to think
+about automation and scale. No matter what was happening in my career, the
+software communities I was a part of always supported me. When I struggled,
+there was always someone who was willing to help, to explain, to show me another
+path. I don&amp;rsquo;t know what my life would be like without those communities in it -
+but I know that I would be less for their absence.&lt;/p&gt;
+
+&lt;p&gt;I started an open source configuration management project called Chef a decade
+ago. It quickly grew beyond my own consulting company into a venture backed
+startup. Chef&amp;ndash;contributors, users, and friends&amp;ndash;has grown quite large since
+then. My business has grown with it. As a venture backed startup, Chef is
+a success. It is also a success as an open source community - there is a steady
+stream of people who contribute, who use it in their work, and who help each
+other with their problems.&lt;/p&gt;
+
+&lt;p&gt;Out of all that I&amp;rsquo;ve done, I&amp;rsquo;m most proud of the Chef Community and the way it
+has taken care of all the different people who have joined it. I am sustained
+by the memories of people who have come up to me and told me how Chef changed
+their lives. How &lt;em&gt;I&lt;/em&gt; changed their lives. They have also changed mine in
+immeasurable ways. My daughter looks at me differently, because she has seen
+strangers come up to me and tell me about that impact. I have seen people
+flourish, grow and change, as people, as engineers. It has been one of the best
+things I have experienced in my life, and I cherish it.&lt;/p&gt;
+
+&lt;p&gt;That community exists because Chef is open source. But not everything we do is
+open source - we offer proprietary software on top of our open source base.
+This is what’s termed &amp;ldquo;open core&amp;rdquo;. We create a base of open source software,
+which everyone is free to use, and which the broader community collaborates
+with us on. We also create proprietary software on top of that base, which we
+sell to customers for money. &amp;ldquo;Open core&amp;rdquo; is the dominant model of using open
+source in business today.&lt;/p&gt;
+
+&lt;p&gt;We add value on top of Chef&amp;rsquo;s core value proposition, but we never get in the
+way of that core value proposition. This has an upside - there is zero friction
+to using Chef to solve your problem. This creates a large “top of funnel” for
+our business. We have lots of Chef users, who we then try and convince to use
+our proprietary software as well. The most difficult part of the process is
+deciding what is the core value, and what is proprietary. When we get it wrong,
+we either frustrate our community or hamper our ability to monetize.&lt;/p&gt;
+
+&lt;p&gt;Here is an example. One recent company, who is in the Fortune 50, sent us an
+email that went something like this:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Congratulations! Chef is the exclusive configuration management system for us.
+However, we are not going to enter into a commercial relationship with you,
+because your business model is bullshit. Love, Massive Company.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have many problems with that email, but here is the biggest one. That
+organization is going to use Chef to generate many, many billions of dollars of
+revenue. We have spent more than a hundred million dollars into the development
+of Chef. The vast majority of that effort is in open source software. We have
+grown and nurtured a community I am immensely proud of. Because the tilt of
+what is free and what is proprietary didn&amp;rsquo;t convince a Fortune 50 company, they
+are going to gain all the benefit of that work: for nothing. There is no
+question that what we have built is valuable. It&amp;rsquo;s that what we hold back
+wasn&amp;rsquo;t enough.&lt;/p&gt;
+
+&lt;p&gt;Now, dear reader, I hear you saying to me - &amp;ldquo;Well, Adam, them’s the breaks!
+Sounds like your business model &lt;em&gt;is&lt;/em&gt; bullshit!&amp;ldquo;. Which, okay, fine - I accept
+your premise. The only rational response to it is that I should create &lt;em&gt;more&lt;/em&gt;
+proprietary software. That I should make the open source part of what I do less
+valuable, so that companies like that have no choice but to pay us.&lt;/p&gt;
+
+&lt;p&gt;Another reader: &amp;ldquo;You still benefit - they will participate in your community!&amp;rdquo;.
+Pretty unlikely. If they do, it will be to show up and ask questions. In
+channels populated with employees Chef pays. With community members dedicated
+to sustaining the software. This sucks for me, but it sucks worse for those who
+volunteer their time and effort. How is it a good idea that the community
+doesn&amp;rsquo;t get back improvements to the software, directly or indirectly, in
+return for their efforts? This isn&amp;rsquo;t helping a single individual over the hump
+- this is supporting billion dollar revenue streams, with &amp;ldquo;free&amp;rdquo; labor, because
+that&amp;rsquo;s the way it is.&lt;/p&gt;
+
+&lt;p&gt;Here is another true story from Chef: Over the years, many businesses have
+integrated Chef into their platforms. Many of them created their own
+proprietary layer on top of Chef, in direct competition with us. An example of
+such a business was AWS OpsWorks - a hosted management platform built on Chef
+- which was created by a team in Germany, and then bought by AWS. It&amp;rsquo;s the
+nightmare scenario of the people behind the Commons Clause - the fear that AWS
+would destroy my business, which is funding the software, by launching
+a competitor.&lt;/p&gt;
+
+&lt;p&gt;Lucky for us, that&amp;rsquo;s not quite what happened. It turns out that, while our
+stance on what was open was bad in the first example, it&amp;rsquo;s perfect in this one.
+Chef continued to evolve the software, in the open, at a rapid pace. OpsWorks
+was always behind. Some of their features were not supported; some of their
+workflows worked, others did not. This caused significant demand on AWS to
+align their service with what we produce. As a result, AWS has now launched
+Chef&amp;rsquo;s commercial product as a service. We share in the revenue. The original
+OpsWorks is no longer pushed strongly as a competitor. The Chef
+Community&amp;ndash;contributors, users, and friends&amp;ndash;was the protection we had against
+the most voracious force the software industry has ever seen.&lt;/p&gt;
+
+&lt;p&gt;My entire life in software is possible because I have been a part of incredible
+communities. Chef is an open source company because I believe in the power of
+communities. I also took venture capital, and have a responsibility to turn
+that capital into a thriving business. Looking at it from only that
+perspective, it is clear what I should do: I should create more proprietary
+software. I should stop participating in the community, if it means supporting
+people who don&amp;rsquo;t pay me.&lt;/p&gt;
+
+&lt;p&gt;There&amp;rsquo;s strong evidence that the more closed companies are, the better they
+perform. The revenue&amp;ndash;and exits&amp;ndash;of open source companies is tracked in the
+&lt;a href=&#34;http://oss.cash/&#34; target=&#34;_blank&#34;&gt;Commercial Open Source Software Company Index&lt;/a&gt;. These are
+not exact numbers - these are mainly private companies. Regardless, the trend
+is clear: The companies with the best business performances are the most
+closed. They may have large user bases - but they don&amp;rsquo;t have thriving open
+source communities. What&amp;rsquo;s more, in markets where there is competition between
+open source companies, the most closed company wins.&lt;/p&gt;
+
+&lt;p&gt;Clearly, as an open core business, the usefulness of my open source software is
+in direct tension with my ability to monetize it. The incentive for creating an
+open source community is that it should be healthy, but not too healthy. In
+this mindset, the value of my open source software is solely as a funnel to my
+proprietary software. Nothing more. It breaks my heart.&lt;/p&gt;
+
+&lt;p&gt;I want to square my own circle. I want to find a way to no longer be in tension
+with my community. I want every dollar of revenue I generate to feed and
+sustain it. I want to generate venture capital sized returns. I want my
+business to thrive not in spite of its community, but &lt;em&gt;because&lt;/em&gt; of its
+community. I want the predominant way we build open source businesses to be
+through building thriving communities. Because that&amp;rsquo;s where the real impact on
+my life has come from.&lt;/p&gt;
+
+&lt;p&gt;I want the incentives to be different. I want the part of the decade of my life
+that I am most proud of to be the reason my business is successful, not
+a reason it is not.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: A definition of Sustainable Free and Open Source Communities</title>
+      <link>https://sfosc.org/docs/book/conception/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/conception/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;What is a sustainable open source community?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;If we are to re-align the incentives, we have to start from the top, and that
+means definitions. When I say “Sustainable Open Source Community”, I mean the
+following:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;A unified body of individuals, scattered throughout a larger society, who work
+in support of the creation, evolution, use, and extension of free and open
+source software; while ensuring its longevity through meeting the needs of the
+present without compromising the ability of the community of the future to
+meet its own needs.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This definition comes from a combination of my own brain, the Merriam-Webster
+dictionary definition of community, and the broader understanding of
+sustainable economic development.&lt;/p&gt;
+
+&lt;p&gt;When I say “free and open source software”, I mean it in the terms defined by
+the &lt;a href=&#34;https://www.gnu.org/philosophy/free-sw.en.html&#34; target=&#34;_blank&#34;&gt;Free Software Foundation&lt;/a&gt;
+and the &lt;a href=&#34;https://opensource.org/osd&#34; target=&#34;_blank&#34;&gt;Open Source Initiative&amp;rsquo;s Open Source
+Definition&lt;/a&gt;. While all Free Software is Open Source
+software, the inverse is not true. I use Open Source as the short form because
+it is the super-set of software communities that potentially fit my definition.&lt;/p&gt;
+
+&lt;p&gt;My definition precludes &amp;ldquo;user&amp;rdquo; communities from being sustainable. An example
+here is the &amp;ldquo;Excel&amp;rdquo; community - while I’m sure one exists, it’s not a community
+in the sense that I mean it. The community itself isn&amp;rsquo;t involved in the
+creation and evolution of the software. At best, they can contribute to its
+extension. If Microsoft stops producing Excel, what can the community do? They
+have no mechanism to ensure its longevity. The Excel community is sustainable
+only so long as it is profitable to Microsoft. It&amp;rsquo;s a sustainable software
+business, but not a sustainable community.&lt;/p&gt;
+
+&lt;p&gt;This points to the most unique property of a sustainable open source community:
+longevity. It must be able to produce the software for as long as it is of
+benefit to the community. As long as we ignore the cost of resources required to
+run the hardware, the software itself is an infinite resource. We don&amp;rsquo;t have the
+same struggle that we would have with, say, sustainable water usage. The
+software can continue to evolve and be used as long as it is needed.&lt;/p&gt;
+
+&lt;p&gt;Participants in a sustainable open source community gain many benefits. They
+obviously gain the software itself, as a user. They gain the ability to
+influence the direction of the software. They may gain reputation and
+visibility. Monetary benefits might flow to them, either through employment or
+donations. The list encompasses all the benefits of being in a community, plus
+the software itself.&lt;/p&gt;
+
+&lt;p&gt;Our goal is the creation of a community who can sustain the software, and
+provide benefits to its members, both now and in the future. To do that, the
+community must create a model where the majority of the value it creates flows
+to its benefit. Take the example of Chef being Open Core from above. Any value
+created on the proprietary side of the line is not available to the broader
+community. While the software itself is an infinite resource, we&amp;rsquo;ve created
+a non-infinite downstream pool - we reserved some benefit for a subset of the
+community, my paying customers. As a result, we created a user community
+- which, while it may be sustainable as a software business, is not sustainable
+as a community resource.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Designing a Sustainable Institution</title>
+      <link>https://sfosc.org/docs/book/institutions/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/institutions/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;What makes other communities sustainable?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;What makes other communities sustainable? One common thread is that they all
+have institutions that support and govern them. They could be courts,
+legislatures, religious hierarchies, fraternal societies; the list goes on.
+What we don&amp;rsquo;t find are sustainable communities without institutions. Even
+anarcho-syndicates form terms of their free association.&lt;/p&gt;
+
+&lt;p&gt;Therefore, we need to design an institution that supports and governs the
+community, which is dedicated to creating the architecture of participation
+that ensures a thriving community. We need rules for our community&amp;rsquo;s
+association. To do that, we can leverage Political Theory.&lt;/p&gt;
+
+&lt;p&gt;Political theory is the study of the history, ethics, and legitimacy of
+institutions and governments. Philosophers like Locke, Rousseau, Kant, Bentham,
+Mill are examples of political philosophers. Together, they shaped many of the
+foundations of western society. In particular, two big ideas have dominated the
+discourse: the social contract and utilitarianism. A social contract is an
+agreement between people in a community to work together, at the expense of
+some of their freedoms. &amp;ldquo;I agree to not steal from others, in exchange for not
+being stolen from.&amp;rdquo; Utilitarianism can be summed up as the idea that what is
+good for the majority is what&amp;rsquo;s good for society. While the social contract
+came first, the utilitarian perspective dominated for decades. Let&amp;rsquo;s dive in to
+the utilitarian view, then turn to the social contract.&lt;/p&gt;
+
+&lt;p&gt;In 1907, Henry Sidgwick summarized the utilitarian view this way:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Society is rightly ordered, and therefore just, when its major institutions
+are arranged to achieve the greatest net balance of satisfaction summed over
+all the individuals belonging to it&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The main idea is this: when there is more total satisfaction (&amp;ldquo;the good&amp;rdquo;) in
+the society, things are just. This can (will?) happen at the expense of the
+minority, as long as we have more aggregate goodness in the system. The problem
+with a utilitarian view is that it is concerned with the total amount of
+goodness in a society: it doesn&amp;rsquo;t care about ensuring any kind of distribution
+of the good. It can be weighted strongly toward the majority, even a small
+segment of the majority. A strong majority controlling everything might create
+sustainable software (like our Excel example.) It is unlikely to create
+a sustainable community for long - it will continue to accumulate the good for
+itself, at the expense of others. Political theorists have spent a huge amount
+of effort trying to soften this blow, to no real avail.&lt;/p&gt;
+
+&lt;p&gt;In 1973, a political philosopher named John Rawls dropped a bomb on the
+utilitarian viewpoint. He focused on the idea of the social contract as the
+basis for a just society with his &amp;ldquo;Theory of Justice&amp;rdquo;.  Here is Rawls
+explaining his point of view:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Justice is the first virtue of social institutions, as truth is of systems of
+thought. A theory however elegant and economical must be rejected or revised
+if it is untrue; likewise laws and institutions no matter how efficient and
+well-arranged must be reformed or abolished if they are unjust. Each person
+possesses an inviolability founded on justice that even the welfare of society
+as a whole cannot override. For this reason justice denies the loss of freedom
+for some is made right by a greater good shared by others. It does not allow
+that the sacrifices on a few are outweighed by the larger sum of advantages
+enjoyed by the many.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Rawls then sets out to define the principles of justice itself. How would we
+know that the rules that govern our society are, in fact, just? He comes up
+with two principles, which he refined many times over the course of his life.
+Here is one statement from a speech he gave in 1996, referenced in the Oxford
+Handbook of Political Theory:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Each person has an equal claim to a fully adequate scheme of equal and basic
+liberties, which scheme is compatible with the same scheme for all; and in
+this scheme the equal political liberties, and only those liberties, are to
+be guaranteed their fair value.&lt;/li&gt;
+&lt;li&gt;Social and economic inequalities are to satisfy two conditions: first, they
+are to be attached to positions and offices open to all under conditions of
+fair equality of opportunity, and second, they are to the greatest advantage
+of the least advantaged members of society.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The first principle is called the “equal liberty principle”. The second is
+divided up into two parts: “fair equality of opportunity” and “the difference
+principle”. He goes on to state we are not allowed to trade the first principle
+for the second. We cannot trade our basic liberties for any benefit, regardless
+of who it benefits. Further, fair equality of opportunity comes before the
+difference principle. We cannot give an advantage to one person at the cost of
+another person&amp;rsquo;s fair access to opportunity. Finally: when we do have
+inequalities, they must be to the benefit of those with the least.&lt;/p&gt;
+
+&lt;p&gt;Rawls then defined the &amp;ldquo;social and economic&amp;rdquo; benefits in terms of the &amp;ldquo;primary
+social goods&amp;rdquo;. He defines these as &amp;ldquo;things we might want, whatsoever else we
+might want&amp;rdquo;. For Rawls, that meant things like freedom of movement, freedom of
+speech, and free choice of occupation. These are the things that we won&amp;rsquo;t ever
+trade. After that, we want all kinds of things, including: access, prestige,
+and money. We accept inequalities in those things only if they meet the
+conditions of fair equality of opportunity and the difference principle. They
+must be equally available to all, and benefit the least advantaged.&lt;/p&gt;
+
+&lt;p&gt;He justifies these principles through designing a game using a device he called
+&amp;ldquo;the original position&amp;rdquo;, but more commonly known as &amp;ldquo;the veil of ignorance&amp;rdquo;.
+Imagine we were brought together to design a society from scratch. We are not
+allowed to know in advance what position we will occupy. We are going to agree
+to some rules, then roll the dice to see where we will wind up. Will we be in
+the middle? The top? The bottom?&lt;/p&gt;
+
+&lt;p&gt;From this position, Rawls postulates that reasonable people would adopt his
+rules. We would need some basic liberty to exist, because we would not accept
+a situation where we wind up a slave. There is some unacceptable floor. We
+would require the ability to strengthen our social position, so we could
+improve our lot. Finally, we would mandate that those with the most cannot
+hoard their resources. Otherwise, our ability to improve will be limited by
+those with the most. From this position we can see if our system would be just:
+regardless of where you start, the game is fair. (Rawls theory is often
+summarized as &amp;ldquo;Justice as Fairness&amp;rdquo; for this reason.)&lt;/p&gt;
+
+&lt;p&gt;Rawls work has dominated political theory since he stated it. It forms the
+basis for almost all the study that has come after it, and depending on your
+perspective, has some holes. In most cases, these stem from the complexity
+inherent in talking about society on the scale of the human condition. If we
+scope things down to a single sustainable open source community, we can avoid
+many of those issues. We can use Rawls&amp;rsquo; theory to test whether an existing open
+source community is just, and thus sustainable. From there, we can collect
+a set of principles that all sustainable free and open source communities
+should abide by.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Setting up Rawls&#39; Game</title>
+      <link>https://sfosc.org/docs/book/rawls_for_foss/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/rawls_for_foss/</guid>
+      <description>
+        
+        
+        &lt;p&gt;To begin, we have to decide what the primary goods are. What is the thing we
+want, whatsoever else we might want. We can take for granted Rawls list
+(freedom of expression, etc), since we are scoping things down to our
+sustainable open source community. In its place, a reasonable statement of the
+primary good we want is:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We want the software to exist, to solve our problem, to continue to improve,
+and to be available for our use.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since our primary good is software, it has the unique property of being
+infinite in amount. If we want more of it, we can simply&amp;hellip; create more of it.
+This definition ensures we will not trade away our ability to be sustainable.&lt;/p&gt;
+
+&lt;p&gt;Now we need to apply the equal liberty principle. What are the rights we won&amp;rsquo;t
+trade?&lt;/p&gt;
+
+&lt;p&gt;It turns out that the &lt;a href=&#34;https://www.gnu.org/philosophy/free-sw.en.html&#34; target=&#34;_blank&#34;&gt;Four Freedoms set forth by Richard
+Stallman&lt;/a&gt; (RMS) are a perfect
+fit here. (I suspect not by accident - I put the odds that RMS didn&amp;rsquo;t read
+Rawls in 1983 at slim to none.) They are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The freedom to run the program as you wish, for any purpose (freedom 0).&lt;/li&gt;
+&lt;li&gt;The freedom to study how the program works, and change it so it does your
+computing as you wish (freedom 1). Access to the source code is
+a precondition for this.&lt;/li&gt;
+&lt;li&gt;The freedom to redistribute copies so you can help others (freedom 2).&lt;/li&gt;
+&lt;li&gt;The freedom to distribute copies of your modified versions to others (freedom
+3). By doing this you can give the whole community a chance to benefit from
+your changes. Access to the source code is a precondition for this.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By adopting the four freedoms as our foundational rights, we guarantee our
+community&amp;rsquo;s basic liberty. Regardless of our position in the community, we will
+always have access to our primary good. Anything less than the four freedoms
+and we could easily be in a position where we are locked out of the community.
+Where our basic desire goes unfulfilled. By agreeing to never trade away our
+four freedoms, we fulfill the equal liberty principle.&lt;/p&gt;
+
+&lt;p&gt;This implies that, to be sustainable open source community:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The software must be released under a Free and Open Source license.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This could be a &amp;lsquo;copyleft&amp;rsquo; license like the GNU General Public License (GPL),
+or a &amp;lsquo;non-copyleft&amp;rsquo; license such as the Apache License. The specific license
+doesn&amp;rsquo;t matter - only that it upholds the four freedoms.&lt;/p&gt;
+
+&lt;p&gt;This is, of course, not quite enough. We want more than just basic liberty in
+our lives - the “whatsoever else we might want” part of Rawls conception of the
+good. We want prestige, we want influence, we want money, we want friendship
+- the list is long. Simply having the software isn’t worth much if we can’t
+ensure a long life together as a community. It may give us liberty, but it
+won’t give us fraternity.&lt;/p&gt;
+
+&lt;p&gt;Once we start injecting the other things we want into our community, we are
+going to cause inequality. We need to ensure that those inequalities meet fair
+equality of opportunity and the difference principle. To do that, we need to
+have a better understanding of what the positions are we might occupy in our
+community. What are the different outcomes of the dice roll that determines our
+fate?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Founders&lt;/em&gt;: the original authors of the software. They begin with 100% of the
+goods in our community. (If it wasn’t for their initial decision to create
+a community in the first place, there would be no community.)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Developers&lt;/em&gt;: people with the technical ability and desire to improve the
+software; for their own benefit, the benefit of their employer, the desire
+to be active in the community or a combination of these.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Contributors&lt;/em&gt;: those who engage in the work of making the software better.
+This does not necessarily mean writing code: they might file bug reports,
+compile release notes, write documentation, answer questions, etc.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Champions&lt;/em&gt;: people who promote the benefits of the software and benefit by
+gaining visibility and authority.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Non-Commercial Users&lt;/em&gt;: folks who use the software to solve their own
+problems. Distinct in that they are not solving the problem of how to
+generate wealth with the software.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Commercial Users&lt;/em&gt;: users of the software who are solving problems related to
+generating wealth. Distinct in that they are not generating wealth from the
+software directly.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Software Businesses&lt;/em&gt;: entities that sell a build of the software, and
+provide support for its use.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;As-A-Service Businesses&lt;/em&gt;: distinct from software businesses, in that they
+provide the software as a service, over a network.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Managed Service Businesses&lt;/em&gt;: similar to As-A-Service Businesses, but
+provide the software as a service at a location of the consumer&amp;rsquo;s choice.
+Manage the lifecycle of the software on behalf of the consumer.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Consulting Businesses&lt;/em&gt;: sell implementation and strategic consulting around
+the software.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Venture Capitalists&lt;/em&gt;: people that provide funding of businesses in return
+for a stake in the business. Have the express desire that the business grows
+significantly in value.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This conception of community is an expansive one - it includes not only
+software developers, but anyone who has a stake in our community. How can we
+exclude the contributors who don&amp;rsquo;t write software? The venture capitalists who
+bring massive amounts of money to the table? All these are different aspects of
+the work involved in supporting the creation, evolution, use and extension of
+the software. We have to include them all, and as we discover new ones, include
+them as well.  If we do not, we can&amp;rsquo;t be sure we&amp;rsquo;re evaluating our rules
+against a realistic field.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Governance and Behavior</title>
+      <link>https://sfosc.org/docs/book/governance/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/governance/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;How is a community or project governed?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Lets start by evaluating how to provide fair equality of opportunity for the
+direction of the project. I see three common models:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Dictatorships, such as Linux, Python (before the resignation of
+Guido van Rossum and the
+&lt;a href=&#34;https://discuss.python.org/t/python-governance-vote-december-2018-results/546&#34; target=&#34;_blank&#34;&gt;adoption&lt;/a&gt;
+of a steering council model), and Chef.&lt;/li&gt;
+&lt;li&gt;Self organizing with loose consensus, as best seen in the Rust community.&lt;/li&gt;
+&lt;li&gt;Democracies, represented by the Apache Foundation, The Debian Project, and OpenStack.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;How does each stack up to Rawls&amp;rsquo; principles?&lt;/p&gt;
+
+&lt;p&gt;The dictatorship model has an individual, often the founder, holding 100% of
+the authority over the projects direction. Usually they then delegate
+responsibility to trusted lieutenants, who then further delegate to individuals
+or teams. Those teams often feel democratic at the bottom - some amount of
+public conversation and loose consensus is found at the edges of the project.
+Yet the power in these models is fixed: the leader holds ultimate power. The
+community puts its faith in the judgement of the leader.&lt;/p&gt;
+
+&lt;p&gt;The advantage of this model is often perceived to be streamlined decision
+making, and a focusing on the founders&amp;rsquo; moral authority over their work as the
+most legitimate way to decide the projects direction. Taken through Rawls
+lense, though, it is hard to advocate for this type of leadership. While it may
+be efficient at breaking ties, or resolving dispute, it clearly denies the
+ability for any community member, other than the founder or their hand picked
+successor, to advance to the level of ultimate leadership in the community. All
+participation or advancement is at the personal whim of the founder. They may
+do a good job of ensuring that both fair equality of opportunity and the
+difference principle are applied in their personal decision making - but since
+the position in which their authority is vested cannot be held by any member of
+the community, it ultimately fails to satisfy fair equality of opportunity
+- which means they are un-just at their foundation.&lt;/p&gt;
+
+&lt;p&gt;Similar problems plague the loose consensus decision making of the Rust
+community - a community that I would say is a model for pleasant and meaningful
+open source. Rust consists of several teams, with ultimate authority resting in
+the &amp;ldquo;core team&amp;rdquo;. This group is responsible for creating &amp;ldquo;sub-teams&amp;rdquo; that focus
+on particular areas, each led by a member of the core. The sub-teams themselves
+have the responsibility for driving their own membership guidelines, and for
+making decisions based on Rust&amp;rsquo;s own core community value of consensus.
+A &lt;a href=&#34;https://github.com/rust-lang/rfcs/blob/master/text/1068-rust-governance.md&#34; target=&#34;_blank&#34;&gt;significant amount of
+effort&lt;/a&gt;
+has gone in to this structure, and in practice, it’s clearly working well.
+However - the issue here is that, ultimately, if the core team itself should
+fail to represent the will of the Rust community, there would be no recourse.
+Other than participation, and a relatively opaque conception of what behavior
+merits sub-team (and ultimately, core team) membership, there are no guidelines
+at all. As an institution designed for longevity, the lack of clarity on how
+members of the core team are decided and removed means that it’s in a space of
+uncertainty: as it is currently operating, you could easily argue it fits all
+of Rawls tests. But it could clearly turn to a model where the core team
+decides to behave in a way the rest of the community disagrees with, or to its
+own benefit. Looking at Rust is interesting for our process, because it clearly
+is generating net-positive results, both for the software itself and the
+community around it - and yet, it’s impossible to say it will remain that way.
+While producing world-class results, Rust fails to meet the bar for equal
+opportunity of access or the difference principle - in its attempt to allow the
+teams to self organize, they fail to ensure the Rust community can remain as
+egalitarian as it is today. It’s lack of guidelines are its trouble.&lt;/p&gt;
+
+&lt;p&gt;Finally, we can look to the democratic model. This is best represented by the
+&lt;a href=&#34;https://www.apache.org/foundation/governance/&#34; target=&#34;_blank&#34;&gt;Apache Software Foundation’s governance
+model&lt;/a&gt;, the &lt;a href=&#34;https://www.debian.org/social_contract&#34; target=&#34;_blank&#34;&gt;Debian
+Project&lt;/a&gt; and &lt;a href=&#34;https://www.openstack.org/legal/bylaws-of-the-openstack-foundation/&#34; target=&#34;_blank&#34;&gt;the OpenStack
+Foundation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Apache publishes an &lt;a href=&#34;https://www.apache.org/foundation/governance/orgchart&#34; target=&#34;_blank&#34;&gt;organizational
+chart&lt;/a&gt; that is
+instructive here. They split the organizations governance into two parts - the
+corporate governance of the foundation itself, and the project governance for
+each Apache software project. The Apache members, all of whom are individuals
+with a single vote, elect a board of directors, who then appoint a president
+and corporate officers. For each project, the board creates and updates Project
+Management Committees (PMCs). The Chair of each PMC is appointed by the board.
+The PMC Chair then has the power to establish the rules for the day to day
+functions of their project. You can see the similarity to the Rust model - at
+the level of any individual Apache project, there is broad latitude for the day
+to day functioning of the project to be decided by the project itself, while
+still being morally beholden &lt;a href=&#34;http://theapacheway.com&#34; target=&#34;_blank&#34;&gt;to the Apache Way&lt;/a&gt;
+(which is, itself, not clearly defined). Fundamental to the Apache model is
+that members get to vote in the board, which then has a responsibility to
+oversee strong executive leaders with broad latitude to do as they see fit for
+the projects they manage. The result is that it strikes a balance between the
+efficiencies of a pure dictatorship (through the consistent use of powerful
+executives with broad personal authority) and the loose consensus of Rust.&lt;/p&gt;
+
+&lt;p&gt;A flaw in the Apache model is that, in order to be eligible to vote, you must
+first become a Member, and the terms fail the difference principle. Membership
+is invitation only - new members are proposed and voted on by the existing
+membership. Here the foundation relies on the idea of meritocracy, &amp;ldquo;&lt;a href=&#34;https://www.apache.org/foundation/members.html&#34; target=&#34;_blank&#34;&gt;meaning
+that contributions and skills are the factors used to judge
+worthiness&lt;/a&gt;&amp;rdquo;. The difficulty,
+of course, lies in deciding what behavior is, in fact, worthy of merit. Apache
+makes no such attempt at defining merit - but it is implicit that one aspect of
+merit is being able to directly contribute code to an Apache project. The side
+effect is that, with the Apache model, we run the risk of excluding members of
+the community whose contributions don’t match our collective idea of merit, and
+it is highly likely this will be perpetuated - why would the existing
+membership, all of whom share the same implicit idea of what is worthy of
+merit, ever expand that point of view? Again we find a spot where, in practice,
+Apache is largely upholding the idea of equal opportunity of access; but it may
+very well be failing to uphold the difference principle, since membership in
+the community (and therefore access) may not include all members of the
+community.&lt;/p&gt;
+
+&lt;p&gt;The Debian Project is a community dedicated to the creation of a free software
+operating system, and it’s another example of democracy in open source
+development. It has two foundational documents: &lt;a href=&#34;https://www.debian.org/social_contract&#34; target=&#34;_blank&#34;&gt;The Debian Social
+Contract&lt;/a&gt;, which defines their
+principles, and contains the Debian Free Software Guidelines, which defines
+what software is considered for distribution; and &lt;a href=&#34;https://www.debian.org/devel/constitution&#34; target=&#34;_blank&#34;&gt;The Debian
+Constitution&lt;/a&gt;, which describes the
+organizational and decision making structure for the project. In broad terms,
+Debian Developers vote on General Resolutions, hold Elections, may override any
+decision made by any elected official, and amend their constitution (on a 3:1
+majority). The Project Leader is elected by the Developers, and has broad
+latitude to delegate their substantial authority as they see fit. One of the
+Project Leaders powers is the appointment of members to the Technical
+Committee, which has the authority to overrule decisions of individual
+developers, decide on technical matters, and set technical policy.&lt;/p&gt;
+
+&lt;p&gt;Originally, Debian Developers were always considered as people who developed or
+packaged software for Debian. However, by &lt;a href=&#34;https://www.debian.org/News/2010/20101019&#34; target=&#34;_blank&#34;&gt;general resolution in
+2010&lt;/a&gt;, the guidelines were updated,
+and non-packaging contributors were welcomed in to the fold. To become
+a member, and therefore to have a vote, you need to: be contributing to Debian;
+fill out an Application; have an existing Debian Developer advocate for you via
+an email describing what you have done for the project; have your
+identity verified; have your understanding of debian philosophy and procedures
+validated; and have examples of your work available. Assuming all goes well,
+you are then considered a voting member of the project.&lt;/p&gt;
+
+&lt;p&gt;Debian clearly meets Rawls&amp;rsquo; criteria, by resolving the issue with the Apache
+model - the institution that governs the community has broadly achievable
+membership, which then confers the ability to gain access to positions of power
+within the community, including the ultimate authority conveyed by the project,
+that of the Project Leader. Votes by members all have equal weight, and the
+constitution contains procedures for voting, certifying the vote, and more.
+Like every model we have seen so far, it invests authority to a strong
+executive, who then has wide latitude for conveying their authority to others
+within the project, and relies strongly on consensus before requiring dispute
+resolution to happen via a formal method.&lt;/p&gt;
+
+&lt;p&gt;The OpenStack Foundation is interesting because it functions as a democracy,
+but with different levels of voting participation. &lt;a href=&#34;https://www.openstack.org/legal/bylaws-of-the-openstack-foundation/&#34; target=&#34;_blank&#34;&gt;It is governed by
+bylaws&lt;/a&gt;,
+which define how the project and the non profit foundation that administers it
+will function. Technical decision making is done through an elected technical
+committee, which has broad leverage over the day to day decision making of the
+project. The foundation itself is overseen by a board whose membership includes
+indviduals and two levels of corporate sponsorship (&amp;ldquo;gold&amp;rdquo; and &amp;ldquo;platinum&amp;rdquo;). The
+corporate membership types are fixed in the bylaws of the foundation, and both
+have capital and contribution requirements. Individual membership is made
+through an application process to the project Secretary, with simple
+requirements (name, affiliation, statement of interest, and contact
+information.)&lt;/p&gt;
+
+&lt;p&gt;The board is elected as follows: platinum members are allowed to appoint
+a single member of the Board, and their number sets the &amp;ldquo;director limit&amp;rdquo;
+(currently at 8). Gold members then vote amongst themselves to determine who is
+allowed to select the gold member seats on the board, filling 8 seats. Then
+individual members are allowed to vote, electing 8 individual members to the
+board. This board has all the rights that are not otherwise delegated to
+a committee (for example, they don’t have the right to make technical decisions
+for the project, but they do direct funds.)&lt;/p&gt;
+
+&lt;p&gt;The technical committee is selected by a vote of the &amp;ldquo;Active Technical
+Contributors&amp;rdquo; (ATC). These are determined as a contribution approved to any of
+the official OpenStack Projects, or if they are not a technical contributor,
+they can apply to the chair of the technical committee, who then brings it to a
+vote of the committee.  The technical committee has broad latitude for its own
+governance - it has &lt;a href=&#34;https://governance.openstack.org/tc/&#34; target=&#34;_blank&#34;&gt;published a significant amount of rules over the
+years&lt;/a&gt;. Additionally, the project
+recognizes the role of Project Team Lead (PTL), which is elected from a similar
+membership process, for each project under the OpenStack umbrella, and has broad
+technical latitude.&lt;/p&gt;
+
+&lt;p&gt;OpenStack takes steps to mitigate any individual company gaining control of the
+project (through their rules around Affiliation,) ensures that any modification
+to the bylaws require a &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; vote (and modifications relating to membership
+classes requires a vote by those membership classes), and various times when
+votes are required by the larger body of members.  Through the existence of the
+PTLs and the Technical Committee, OpenStack creates an internal model that is
+not that different from the Apache model (separate technical decision making
+from the foundation itself, strong individual leaders with broad authority over
+their project.)&lt;/p&gt;
+
+&lt;p&gt;Most interesting for our purposes is the existence of multiple levels of voting
+on the OpenStack board itself, according to the varying membership levels, and
+the admission of corporate entities who then nominate representatives. Do the
+Platinum and Gold memberships violate the fair equality of opportunity or the
+difference principle?&lt;/p&gt;
+
+&lt;p&gt;In both Platinum and Gold cases, there are significant revenue and
+participation requirements: $500,000 a year (with a 3 year commitment), and
+gold is 0.025% of revenue with a minimum of $50,000 and a maximum of $200,000
+per year. Essentially, the foundation takes in capital in return for the
+ability to have influence over the issuance of the OpenStack Trademarks,
+influence on decision making for the foundation&amp;rsquo;s budget, and the election of
+officers.&lt;/p&gt;
+
+&lt;p&gt;Since all work done by the OpenStack Core must be licensed as Apache 2.0, we
+know that taking the capital doesn’t violate our basic liberties - we haven’t
+traded the four freedoms. While we have traded money for influence, we have
+limited the scope, through ensuring specific changes to the bylaws require
+larger votes of the membership. Their presence on the board gives them
+influence in some positions of authority (such as hiring officers of the
+foundation, who draw salaries). The issue is that the platinum and gold members
+have enough seats on the board that they can vote as a block against the
+interests of individual members - they have a &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; majority of the board.&lt;/p&gt;
+
+&lt;p&gt;I believe this means that the OpenStack Board fails to meet both the equal
+opportunity of access and the difference principle. The failure of equal
+opportunity of access is caused by the skew in the voting requirements, which
+the board uses both to provide positions of authority within the foundation,
+and to appoint new members to the board directly (existing Platinum members
+have more weight than Gold or Individual, respectively). Clearly, the bar to
+achieving Platinum membership is not equally available, and the influence
+purchased is significant.&lt;/p&gt;
+
+&lt;p&gt;While this is enough to disqualify the model, it is also clear that the board&amp;rsquo;s
+structure fails to address the difference principle. Imagine you are an
+individual contributor who believes the status quo structure of OpenStack to be
+unjust as I have just described it, and who then decides to lobby for a change
+in the by-laws. By design, the rules do not favor you (the member with the
+least) - the community favors the other classes of member, ensuring that if
+their interests are in conflict with yours, they will never be seriously
+threatened. We’ve curtailed the rights of the individual members to increase
+the rights of the corporations. Put on the veil of ignorance, and imagine the
+difference between coming out the other side a Platinum Member versus an
+Individual Member.&lt;/p&gt;
+
+&lt;p&gt;Given this analysis, what are the attributes of a sustainable open source
+community&amp;rsquo;s governance model?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Rules for membership must be published and adhered to.&lt;/li&gt;
+&lt;li&gt;Membership must be open to all classes of contributor to the community. It
+must not be limited to technical contribution, nor to any kind of external
+status.&lt;/li&gt;
+&lt;li&gt;Membership must have requirements for validation of identity, and review of
+contribution to the community (to avoid stacking the membership roles). Any
+impediment to membership must be low enough that a person with the least
+advantage could achieve it.&lt;/li&gt;
+&lt;li&gt;Voting processes must be put in place, which give each member an equal vote.&lt;/li&gt;
+&lt;li&gt;All positions of authority in the project must be, directly or indirectly,
+the result of a vote.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Beyond this, we can draw a couple of conclusions that, while not strictly
+necessary for the system to be just, seem to be common across the vast majority
+of successful technical communities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The membership should vote to elect a strong executive (either an individual
+or a committee), with broad latitude to structure the technical work of the
+project as they see fit.&lt;/li&gt;
+&lt;li&gt;An elected board should exist, to manage disputes and issues with the
+executive, and to manage any community resources.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to governance models, the other practical obstacle to participation
+is the interpersonal behavior of the community itself. Imagine that, while we
+adopt all of the rules above, we require that members acquiesce to existing
+members&amp;rsquo; abusive language, harassment, racism, etc. In this case, we would fail
+to provide equal opportunity of access - you’re allowed to join, but only if
+you’re willing to suffer our withering attacks. So we can add one more
+attribute to a sustainable open source community:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It must have a strong code of conduct, with clear, fair enforcement
+mechanisms.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Contribution and Distribution</title>
+      <link>https://sfosc.org/docs/book/contribution_and_distribution/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/contribution_and_distribution/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;How is work contributed, and distributed?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;Having established the rules for governance and behavior for the community at
+large, we can turn to the terms under which work is contributed to the
+community, and how it is distributed to others. To cover this, we need to
+introduce the different levers at our disposal: copyrights, trademarks,
+patents, terms of distribution (end user license agreements, or EULAs), and
+terms of service.&lt;/p&gt;
+
+&lt;p&gt;(As an aside: these terms are not defined or enforced in the same way around
+the globe. Rather than have an intensive debate about the particulars of any
+given nation&amp;rsquo;s stance, I’ve stuck to the terms as widely understood in the
+United States. While other nations might behave differently, for the terms of
+discussing what the attributes of a sustainable open source community are,
+I think they serve just fine.)&lt;/p&gt;
+
+&lt;p&gt;Copyright is the idea that, as the creator of something, you have the right to
+decide how it will (or won’t) be used. Trademark is the idea that, if we both
+create similar things, I can’t pretend that my thing is your thing (if we both
+make Cola, I can’t say my Cola is Coca-Cola; because only Coca-Cola can be
+Coca-Cola). Patents are how we say that we have a special way of creating our
+goods (while we both create cola, I have a &lt;em&gt;special&lt;/em&gt; way of making cola, and
+only I am allowed to make cola that way, unless I give you permission).
+Distribution terms mean that, while we might both make identical items, &lt;em&gt;this&lt;/em&gt;
+particular set of things comes from me, and has some terms attached that
+I desire. Terms of Service allow you to set terms on how someone uses your
+goods as a service (such as when you use a website, or use a managed service.)
+When you are allowed to take another persons work, and combine it to create
+your own work, you create what is known as a &amp;ldquo;derivative work&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Starting with the clearest item, in Rawls terms, first: Patents. Given the
+requirements of meeting the four freedoms as a guarantee of our basic liberty,
+it’s clear that we need to have the right to both use a patent directly, and to
+create a derivative work that contains a patent. Otherwise, our community might
+not be able to exist, or certain contributors could use their proprietary
+patented method to exclude others in the community. So we can add another
+attribute:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any patents included in the software must be granted under the terms of the
+open source license.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the copyright model, each individual contributor retains their copyright
+over the work they have created. Let&amp;rsquo;s say you create a piece of software called
+&amp;ldquo;Kitten&amp;rdquo;, and you decide to publish its source code under the terms of the
+Apache License 2.0, and create a binary distribution of the software under the
+same terms. Your work is useful, and someone else decides to modify the program
+for their own benefit. They now have a new, derivative work of Kitten, whose
+copyright consists of your work and theirs. We can now consider your version as
+&amp;ldquo;upstream&amp;rdquo;, and their version as &amp;ldquo;downstream&amp;rdquo;. They decide that they want to
+contribute their modifications to the program back to you, so that you (and
+others) can benefit. They would then license their work back to you, under the
+same terms (Apache License 2.0). Assuming you accept it into your distribution
+of Kitten, the resulting release of Kitten is covered by copyrights owned by
+both you and them.&lt;/p&gt;
+
+&lt;p&gt;A corner case exists here we must address - you can assign your copyright to
+others. Assume in the story above, the upstream might decide that, in order to
+incorporate the downstream changes back into its distribution, the downstream
+needs to assign the copyright to the upstream. This grants the upstream broad
+latitude to do whatever it likes with the combined work - up to, and including,
+re-licensing it under different terms. This is the primary lever of the &amp;ldquo;dual
+licensing&amp;rdquo; model - companies require copyright assignment, then sell the
+software under multiple sets of terms: one for an open source version, and
+another for commercial use or integration. These schemes uphold our basic
+liberty, assuming one of the licenses it is released under is a free and open
+source license (in a pinch, we could always fork the software). However, they
+do pose issues with fair equality of opportunity: since the ultimate copyright
+holder is the only one who can re-license the software, they reserve for
+themselves a level of status that is unattainable by any other persona in the
+community.&lt;/p&gt;
+
+&lt;p&gt;The other use case for copyright assignment is giving the software to
+a foundation, such as the Free Software Foundation. In this case, the intent is
+to ensure a single entity has the ability to enforce the copyright license.
+There remains some debate about whether this is necessary - but, regardless,
+these organizations make commitments about the use of the copyright (they will
+use it only for enforcement, not to relicense the software.) This gives us two
+attributes about copyrights:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;All contributors must retain their copyright, unless the software is being
+managed by a foundation for the purposes of license enforcement&lt;/li&gt;
+&lt;li&gt;All contributors intending to have their work incorporated into
+a distribution must contribute their work under the same terms as the
+software license they received it under.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Let’s take a different tack - assume in the story above, the downstream decided
+to continue forward, but not to contribute back. This would be a &amp;ldquo;fork&amp;rdquo; - a new
+distribution, with a shared origin, but now divergent from the upstream. How
+the community feels about this is one of the primary drivers of license choice
+- the copyleft licenses put the requirement for downstream works as a viral
+component of their liberty: you can take the work, you can create a derivative,
+but you must ensure the same freedoms for your derivative as those you
+enjoyed. The non-copyleft licenses vary widely in what they cover, but the
+commonality is that they put no such requirement on the recipient: while you
+may decide to contribute, or you may decide to publish your work under similar
+terms, you don’t have to. The door is open to creating derivative works that do
+not share the freedoms of the upstream.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Business Models</title>
+      <link>https://sfosc.org/docs/book/business-models/</link>
+      <pubDate>Thu, 06 Dec 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/business-models/</guid>
+      <description>
+        
+        
+        
+
+
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;Business models for sustainable open source communities&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;From the perspective of creating sustainable open source communities, clearly
+it is better when we have more of the software in the open, not less, and the
+finger points strongly at using not only copyleft licenses, but the strongest
+possible variation that makes sense for the type of software we are building.
+Where things get more complex is when we start to creep Rawls back in: we want
+the primary good to increase, but we also want other things. Money, for example
+- both directly in our own pockets, but also as a source of growth for the
+software itself. While having software under a strong copyleft might be
+appealing for some cases, clearly for other community use cases it closes the
+door. When we start to look at these business personas, the question becomes:
+how can we monetize the software in a just, sustainable way? There are eight
+common models: the free software island, loose open core, tight open core, dual
+licensing, as a service, donations, support only and the free software product
+model. How does each fare?&lt;/p&gt;
+
+&lt;h3 id=&#34;free-software-island&#34;&gt;Free Software Island&lt;/h3&gt;
+
+&lt;p&gt;The best example of the free software island model are The Apache Projects. The
+Apache Software Foundation exists to provide a framework for creating free
+software, ensuring that it remains focused on the software itself, and that it
+remains free from direct commercialization. As a consequence, it holds tightly
+to the trademarks for the Apache Projects, and does not allow them to be used
+for commercial purposes. By creating a moat between the free software and the
+commercial entities who might build businesses on top of it, the Foundation can
+ensure that, on the island, the project is free to make the right decisions for
+the software itself. This distinction is core to the model - Apache doesn’t
+build products (those are what companies build), they build projects. This
+makes Apache the upstream for many companies - a great example being Datastax
+and Apache Cassandra. While Cassandra is the core of Datastax, Datastax itself
+is increasingly proprietary software (Datastax Enterprise, or DSE) - it looks
+at the value provided by Cassandra, and builds value on top of it. In their own
+words:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;DSE goes beyond Apache Cassandra, delivering twice the performance and half
+the latency of open source Cassandra, as well as simplified operations
+management.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The combination of Apache Cassandra being under the permissive Apache 2.0
+license means that everyone is free to use the software, and to incorporate it
+into their derivative works, regardless of whether those works are themselves
+free. Anyone can take Apache Cassandra, start a business, and build on top of
+it. The Apache Cassandra community likely gets some benefit if they are
+successful, since some of the work required for building Datastax is best
+contained within the upstream Cassandra itself. However, in order to
+distinguish themselves from the purely free (as in beer) Cassandra, Datastax
+diverts some of their value into proprietary software - software that clearly
+isn’t being used to further our sustainable open source community anymore. This
+means that the model passes all of Rawls tests of fairness from the perspective
+of the island itself: it doesn’t constrain our basic liberty, it is equally
+applied to everyone, and whatever inequality might exist bends toward those
+with the least.&lt;/p&gt;
+
+&lt;p&gt;It has an unfortunate side effect, though: by segregating the community
+responsibility on the island, it creates a dynamic that the downstream
+companies will be best served by putting maximum effort into proprietary
+extensions, and cooperating only where strictly necessary. If a downstream
+company tried to ensure that all the work they did went to further sustaining
+our open source community, they would quickly be overtaken by their
+competitors, who would gain all the benefit of their engagement in the
+community core, plus the benefit of their proprietary focus. An example is the
+Apache Hadoop ecosystem, which generated two public companies, Cloudera and
+Hortonworks - who merged as public companies at a &lt;sup&gt;60&lt;/sup&gt;&amp;frasl;&lt;sub&gt;40&lt;/sub&gt; level. Cloudera was the
+more proprietary of the two, and took a significantly larger share of the
+market value, while clearly contributing less to the core of Hadoop.&lt;/p&gt;
+
+&lt;p&gt;A free software island with different dynamics is Linux. Linux uses the GNU
+Public License version 2 as the license for the software. The trademark is held
+by Linus Torvalds, the creator of Linux, and administered on his behalf by The
+Linux Foundation. Linux itself is an operating system kernel, not the entire
+operating system - and the dynamic this creates is that many Linux
+Distributions exist, ranging from completely free and open source (Debian
+GNU/Linux) to fully proprietary (Red Hat Enterprise Linux). In all these cases,
+the license of the Linux Kernel ensures that any downstream derivative of the
+kernel will have its source made available. In practice, this means that the
+vast bulk of work on the Linux kernel, and of monetization around the Linux
+kernel, benefits the kernel community. There is no possibility of a downstream
+proprietary Linux kernel. For purposes of evaluating the model as one of
+sustainable open source monetization, the kernel model drives any downstream
+monetization effort to collaboration on the kernel itself. As a case study in
+monetization, it’s a great example of how license choice and type of software
+make the difference in deciding if this model is a good fit. If Linux had ever
+tried to expand beyond the kernel itself, the model falls apart. By drawing the
+free software island around an indispensable, but insufficient, component of
+the overall system, ensuring that use of that component will always result in
+more contribution (or possible contribution) to the component through
+licensing, and encouraging the growth of businesses around the component, the
+kernel community is a deeply sustainable one (at least, from this point of
+view; it fails many of our earlier tests.)&lt;/p&gt;
+
+&lt;h3 id=&#34;loose-open-core&#34;&gt;Loose Open Core&lt;/h3&gt;
+
+&lt;p&gt;Switching gears, Loose Open Core means that you have a &amp;ldquo;core&amp;rdquo; of the software
+which is open source, and you build products around (but not directly a part
+of) the core. Chef Software and Puppet Labs are two examples of loose open core
+companies. They both produce a large body of open source automation software,
+released under the Apache 2.0 license. They add products like Puppet
+Enterprise, or Chef Automate, which provide features that would be useful for
+their target market (the large enterprise.) In this model, the business tries
+to draw a line that says &amp;ldquo;you can use and be successful with our software, but
+if you want this extra functionality around it, you need to pay us&amp;rdquo;. This model
+is trying to balance having thriving communities, both of users and of
+customers, with the need to provide proprietary differentiation across the
+product portfolio. The struggle here is usually that, for this model to work,
+you need to have a project that generates a high volume of users - which means
+the core product contains everything a user would need to be successful with
+the software&amp;rsquo;s primary use case. For Chef and Puppet, that primary use case is
+at scale configuration management - in both cases, you can run massive
+organizations, and solve huge configuration management problems, without
+needing to purchase anything from either Chef Software or Puppet Labs. In our
+examples above, both companies have taken significant venture capital, and are
+the upstream of the project - there is no separation between Chef and Chef
+Software, or Puppet and Puppet Labs.&lt;/p&gt;
+
+&lt;p&gt;Looking at things from our sustainable open source community perspective,
+things get murky. Clearly, the software that is open source fulfills the basic
+liberty; but in exchange for that software&amp;rsquo;s continued development, we trade
+some functionality (the enterprise features we build around the core) away from
+that basic liberty - we make it proprietary. The lines of our community are
+blurry: where does the Chef Community start, and Chef Software begin, when they
+are so intermingled? If we draw a circle around the software, and say the
+community exists only there, we get the same results to the free software
+island model. If we extend it out to our full, expansive definition of
+community, then it’s plain it no longer fits, as we have traded basic liberty
+for more of the software.&lt;/p&gt;
+
+&lt;h3 id=&#34;tight-open-core&#34;&gt;Tight Open Core&lt;/h3&gt;
+
+&lt;p&gt;This problem becomes most clear when we look at tight open core. Take, for
+example, Elastic and Elasticsearch. Elasticsearch is open source software,
+developed primarily by Elastic. Rather than put software around Elasticsearch
+and monetize there, Elastic puts features needed by their target market in to
+proprietary plugins. The results are that features such as authentication are
+held back from the open source offering, in order to ensure an easier path to
+monetization. This model can be highly effective (Elastic has a very tidy
+business!), but it clearly is not one that creates a sustainable open source
+community: what would the response be if, in order to have the software work
+for your purposes, you desired authentication, and proposed adding that
+capability in to core? This is another obvious moment: we&amp;rsquo;ve traded away our
+basic liberty for software that is only useful for a fraction of our purpose.&lt;/p&gt;
+
+&lt;h3 id=&#34;dual-licensing&#34;&gt;Dual Licensing&lt;/h3&gt;
+
+&lt;p&gt;The open core models generally are paired with a non-copyleft license, since to
+do otherwise would compromise your ability to produce derivative works without
+copyright assignment. A particularly closed twist on this model is the one
+employed by &lt;a href=&#34;https://www.mongodb.com/&#34; target=&#34;_blank&#34;&gt;MongoDB&lt;/a&gt;: they require contributors to
+assign the rights to their copyright to MongoDB (the contributor also retains
+their rights, a change to standard copyright assignment). This allows MongoDB
+to create a tight open core model where they produce an open source version of
+MongoDB under the &lt;a href=&#34;https://www.gnu.org/licenses/agpl-3.0.en.html&#34; target=&#34;_blank&#34;&gt;Affero GPL&lt;/a&gt;,
+and retain the rights to create proprietary versions, or to sell a hosted
+version without being forced to release it into open source MongoDB. This is
+the dual licensing model at it&amp;rsquo;s finest: you release the software under an
+aggressive copyleft, but retain the rights to remove those restrictions for
+yourself - the loophole that allows the company, and only the company, the
+ability to monetize the software effectively. It fails our test on every
+measure, since MongoDB holds rights for itself that the community can never
+match, regardless of where we draw the lines for the community around the open
+source software.&lt;/p&gt;
+
+&lt;h3 id=&#34;as-a-service&#34;&gt;As a Service&lt;/h3&gt;
+
+&lt;p&gt;With the rise of Software as a Service (SaaS) businesses, we have seen a similar
+rise in open source communities adopting this as a model. In its purest form,
+the software itself is made available under an open source license, which you
+could take and run on your own systems, at your own expense. You could also
+purchase the same from the business as a Software as a Service subscription.
+This was the original model for Chef Software, as an example. MongoDB offers
+their database as a service, Redis Labs offers their database as a service - the
+list is long. The challenge with this model as a primary method is around
+whether the value is captured by the community or not. Since the software in
+question is open source, if the license is permissive enough, anyone can make it
+available, with no obligations to contribute back. This becomes a variant of the
+free software island problem - the upstream software is clearly open source, but
+as we monetize the various services downstream, our incentive is to keep less
+and less of the services functionality free, if we can. The Affero GPL was
+created specifically to deal with this problem, and more recently you have
+attempts like the &lt;a href=&#34;https://commonsclause.com/&#34; target=&#34;_blank&#34;&gt;Commons Clause&lt;/a&gt;, which make a
+specific attempt to limit the ability for large service providers to monetize
+open source communities. From a sustainability point of view, a model where the
+software is 100% open source, and the only proprietary software is around the
+specifics of a given service implementation meets all the criteria - anyone who
+wanted to run the software as a service could, they need only put in the effort
+to run the service itself. When we start to have competing services, we get the
+same incentives we get with the permissive free software islands: the best
+strategy is to differentiate your service through proprietary extensions, while
+others build up the core. If instead we limit ability of community members to
+launch competing services on the software, we run into trouble with our
+conception of what a just and sustainable community is: we hold back the right
+to monetize for a specific company, clearly a setup that fails the difference
+principle.&lt;/p&gt;
+
+&lt;p&gt;Since I first wrote that paragraph, MongoDB has relicensed under an even
+stronger version of copyleft, called the SSPL. This license requires not only
+the application itself to be open sourced under the same license if it is
+accessed over the network - it requires that the supporting software required
+to build the service is open sourced as well. This is an even further extension
+of the same problem - MongoDB&amp;rsquo;s hosted service, Atlas, clearly isn&amp;rsquo;t having the
+same terms applied to it. If it was, our analysis would be different - it would
+clearly pass this test, since there is equality in the application of the
+license.&lt;/p&gt;
+
+&lt;h3 id=&#34;donations&#34;&gt;Donations&lt;/h3&gt;
+
+&lt;p&gt;Donations are a classic model of funding open source. A great modern example of
+this is &lt;a href=&#34;https://opencollective.com/webpack&#34; target=&#34;_blank&#34;&gt;webpack&lt;/a&gt;, which uses the &lt;a href=&#34;https://opencollective.com/&#34; target=&#34;_blank&#34;&gt;Open
+Collective&lt;/a&gt; platform to handle not only collecting
+the donations, but how they are distributed amongst the contributors. This
+makes it particularly attractive, from a Rawls perspective, due to the ability
+for individual contributors to receive a portion of the collective funding.
+Contributing to webpack immediately brings you to the table as a possible
+recipient of benefit from webpack&amp;rsquo;s donations. A more historical example is
+&lt;a href=&#34;https://www.vim.org/sponsor/&#34; target=&#34;_blank&#34;&gt;Vim&lt;/a&gt;, which has long accepted donations
+- originally to fund Vim&amp;rsquo;s continued development by its primary author, Bram
+Moolenaar, and once he had a stable job, funneled to a &lt;a href=&#34;https://iccf-holland.org/&#34; target=&#34;_blank&#34;&gt;charity for children in
+Uganda&lt;/a&gt;. Clearly the model followed by webpack can
+create a sustainable open source community under our terms so far. Vim is
+a more interesting case - Bram Moolenaar is the sole primary developer of Vim,
+and while he takes patches, it is clearly his project (and always has been.)
+The result is that, if you wanted to grow in your ability to influence Vim, or
+to grow to the level where you could take donations to fund your own work,
+Vim&amp;rsquo;s community model (or lack thereof) precludes you from doing so
+effectively. For the donation model to be a component of a sustainable open
+source community, it requires the kind of open ability to distribute the
+funding seen with webpack, or at least an open enough governance model that
+individuals could be funded for their work, with a reasonable ability to assume
+it can be completed.&lt;/p&gt;
+
+&lt;h3 id=&#34;support&#34;&gt;Support&lt;/h3&gt;
+
+&lt;p&gt;A similarly tested strategy is the support model. An example of this model was
+the relationship between XenSource and Xen. Xen is an open source hypervisor
+originally built by researchers at the University of Cambridge, along with
+industry collaborators. XenSource was founded to commercialize the open source
+Xen code, &lt;a href=&#34;https://www.brianmadden.com/opinion/A-brief-history-of-Xen-and-XenSource&#34; target=&#34;_blank&#34;&gt;and initially offered only paid support for the
+hypervisor&lt;/a&gt;.
+Over time, XenSource &lt;a href=&#34;https://www.brianmadden.com/opinion/A-brief-history-of-Xen-and-XenSource&#34; target=&#34;_blank&#34;&gt;moved to being a loose open
+core&lt;/a&gt;
+company. The hypervisor itself remained free, but XenSource (and Citrix, after
+their aquisition of XenSource in 2007) built proprietary products
+that sat on top of it designed to appeal to the large enterprise. This is
+a common transition with the support-only model: since the hope is that your
+software will be useful, and will continue to improve, the business model of
+selling support is directly at odds with the user experience of the software.
+As we make it easier to use, we also make the need for support lower. As
+a result this model has historically never been sustainable alone, if the goal
+is to drive significant amounts of capital into the software. It instead morphs
+into an open core strategy (by far the most common) or into a free software
+product strategy. Clearly, the support model by itself meets all the
+requirements of a sustainable open source community, at least for the core
+project, but might not result in a sustainable business strategy, depending
+on the growth requirements of the business or other ecosystem dynamics.&lt;/p&gt;
+
+&lt;p&gt;Citrix appears to have recognized this over time, as they announced that the
+proprietary components built on top of the Xen project would be released as open
+source on &lt;a href=&#34;https://xenserver.org/about-xenserver-open-source.html&#34; target=&#34;_blank&#34;&gt;June 24,
+2013&lt;/a&gt;. The community
+reaction was mixed, and one group announced that they would &lt;a href=&#34;https://medium.com/@marc.pezin/xcp-ng-an-open-source-alternative-to-xenserver-29a7dc876af4&#34; target=&#34;_blank&#34;&gt;fork the XenServer
+code in 2017, creating
+XCP-ng&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;free-software-product&#34;&gt;Free Software Product&lt;/h3&gt;
+
+&lt;p&gt;Which brings us to the free software product model. This is the model that, in
+my opinion, is the least understood in our current landscape. The best example
+of a free software product company is Red Hat. They produce 100% free software,
+but they produce only proprietary distributions of their software: they leave
+the creation of 100% free distributions to others (there are community efforts
+funded by Red Hat, such as Fedora, and most recently CentOS.) The side effect
+is that Red Hat is always the upstream for their software, regardless of its
+origin - Red Hat Enterprise Linux is a collection of free software, bundled
+together, supported, and distributed by Red Hat, but with commercial terms
+attached. You are free to make a derivative work of Red Hat Enterprise Linux
+- provided you remove any of the Red Hat trademarks from your derivative. The
+resulting work benefits from all the effort Red Hat puts in to Enterprise
+Linux, but requires a reasonable amount of effort to produce (CentOS is one
+example, Oracle Enterprise Linux is another.) You can see a similar
+transformation take place with other products, even those not primarily
+produced by Red Hat, such as Kubernetes. Red Hat’s Kubernetes distribution,
+OpenShift, takes the upstream Kubernetes (itself a free software island) and
+produces an open source derivative with extra functionality. They then sell
+that distribution as commercial software - as a hosted service, and as on
+premises software. By committing 100% of the software they produce into open
+source, even when they create a proprietary distribution of a free software
+island, they become a de-facto new upstream.&lt;/p&gt;
+
+&lt;p&gt;No company has more mythology about why it is successful than Red Hat, and all
+of them have some element of truth to them. Over the course of writing this
+document, I’ve heard answers that range from “it works because it is so broad”,
+“it works because IBM chose them”, “it works because people pay for operating
+systems”, “it works because the enterprise needs one throat to choke”. All of
+these things are real, but I think the root reason it works is because of the
+dynamics above. Red Hat has all the benefits of a proprietary software company:
+they sell 100% of the value of the software they produce, they provide
+absolutely no support to non-paying customers, and you cannot receive their
+valuable goods without paying them for the privilege. They also get all the
+benefits of being a free and open source company: development can happen in the
+open, they can build coalitions who contribute to moving the software forward
+(which improves their proprietary distribution,) and they can create new
+products when and wherever they wish, pulling directly from the existing free
+software ecosystem. They produce proprietary distributions of free software
+projects: they build free software products.&lt;/p&gt;
+
+&lt;p&gt;When organizations try and follow the “Red Hat Model”, they typically are
+really following the support model. Indeed, that’s a part of the value
+proposition for Red Hat products - but it isn’t the entire value proposition.
+What differentiates the free software product model from a pure support model?&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Free software products have trademarked, proprietary distributions, with
+commercial terms attached.&lt;/li&gt;
+&lt;li&gt;Free software products (may) have 100% open source distributions, but they
+must use different trademarks and naming conventions, and receive no direct
+customer support or interaction from the upstream. They are strictly
+downstream repackaging of the proprietary upstream distribution. This is
+true regardless of which source code repository is being committed to - the
+user relationship is defined in terms of the commercial product, not the
+free software project.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These two attributes are key to the free software product model. Red Hat
+Enterprise Linux is a proprietary, commercial distribution of Linux. CentOS is
+a 100% free distribution, derived from Red Hat Enterprise Linux. OpenShift is
+a proprietary, commercial distribution of Kubernetes. OKD is a 100% free
+community distribution of OpenShift. Important in these sentences is which
+comes &lt;em&gt;first&lt;/em&gt; - in all cases, the proprietary distribution is the upstream!
+Anyone who is using CentOS would say they are using it &lt;em&gt;because&lt;/em&gt; they want to
+be using Red Hat Enterprise Linux: they just, for whatever reason, do not want
+to pay the commercial terms required by Red Hat for the privilege. The same
+would be true for OKD; no OpenShift user would say they are using the
+commercial version of OKD. Instead, they would say they are using &lt;em&gt;the free
+version of OpenShift&lt;/em&gt;. This is the key element in a free software product
+model, and it is the one that is the least understood in the industry broadly.&lt;/p&gt;
+
+&lt;p&gt;How does this model stack up, from a Rawls point of view? By committing 100% of
+the software to open source, the model ensures basic liberty completely, and it
+avoids any of the difficulties of drawing arbitrary lines around where the
+community stops and the commercial interests begin we see with free software
+islands or the open core models. Assuming the governance model meets our
+earlier criteria, there is nothing in the model that doesn’t meet both the
+equal liberty principle and the difference principle. If, for whatever reason,
+you need to create a similarly proprietary distribution of the software, you
+are completely free to do so, and you can do so regardless of the circumstances
+you start out in.&lt;/p&gt;
+
+&lt;h3 id=&#34;sustainable-models&#34;&gt;Sustainable models&lt;/h3&gt;
+
+&lt;p&gt;What attributes can we pull from this analysis? When it comes time to consider
+how we will introduce capital into the system, we have to make a series of
+choices (each of which assumes the project has clear and just governance, as we
+discussed above):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If the software is never intended or desired to be used in a direct business
+context, they should choose a transparent donation model.&lt;/li&gt;
+&lt;li&gt;If the software is self contained, but useful primarily only as a component
+in a larger set of software, then they should choose to create a free
+software island with the strongest copyleft license that is applicable.
+Contributions flow back through downstream commercialization and the copyleft
+contribution incentives.&lt;/li&gt;
+&lt;li&gt;If the software is broadly applicable, and intended to be used in a direct
+business context, they should choose the free software product model.&lt;/li&gt;
+&lt;li&gt;If the software is broadly applicable, and intended to be used as a widely
+adopted standard, with multiple competing commercial offerings, they should
+choose free software island model with the strongest licensing model that
+supports the standards adoption.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;From a sustainable open source community point of view, all the other models
+leave something to be desired. They may require us to subdivide our community,
+a-la the free software island approach applied to larger pieces of software, or
+those with direct value. They lead to incentivizing the creation of proprietary
+forks, pushing the project to be less free as more capital joins the system,
+a-la the open core models and the SaaS model.&lt;/p&gt;
+
+&lt;p&gt;This leads to our final two principles of a sustainable open source community:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any commercial activity around the software must further the sustainability
+of the community, and the potential for commercial benefit must be available
+to all.&lt;/li&gt;
+&lt;li&gt;The incentives in any commercial models must bend away from the creation of
+proprietary downstream software.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The second point merits more inspection. We see that when we create the lines
+of our community such that no commercial interests are allowed to interfere
+with it, we can create communities that meet all of our criteria - but that
+start to fall down when we consider the second part of our communities desires,
+which are &amp;ldquo;whatsoever else they might want&amp;rdquo;. As community members, we might
+very well decide that we want to benefit monetarily from the software - through
+consulting, through starting a software business. Existing businesses want to
+create communities around their software, like Kubernetes, in order to increase
+their own competitive position. The lines are not clear here - how do we know,
+in any given case, if the decisions we make will harm the long term
+sustainability of our community?&lt;/p&gt;
+
+&lt;p&gt;It is to this end the second point exists. If we are going to have commercial
+activity around the communities software, the incentives must lead towards the
+creation of &lt;em&gt;more&lt;/em&gt; of the software the community desires. If instead it
+incentivizes the creation of proprietary software, then we likely end up in
+a kind of open source stasis - either the upstream does not have valuable
+features (who wouldn&amp;rsquo;t, for example, want half the latency, twice the
+performance, and simplified operations of Datastax compared to Cassandra), or
+those features are hidden away behind competing as-a-service offerings. Our
+community may be sustainable, but it will be comparatively anemic.&lt;/p&gt;
+
+&lt;p&gt;I stop short of advocating for copyleft in all situations. The reason, for me,
+comes back around to Rawls. I don&amp;rsquo;t know the situation of every person who may
+need to join the community, and I don&amp;rsquo;t know the conditions of their lives that
+they wish to improve. What I do know is, if I use a strong copyleft, I&amp;rsquo;m
+narrowing my conception of what&amp;rsquo;s viable for them to do with the software,
+frequently in a commercial context. I find the argument that we should limit
+the terms of the software, in all cases, as copyleft does to be uncompelling in
+those conditions - the difference principle might compel me to use a non
+copyleft license, so that they have the freedom to make the decisions that best
+benefit them. So the statement is that we must choose models that bend away
+from the creation of proprietary software - where &amp;ldquo;bend&amp;rdquo; implies that we may,
+in fact, not decide to completely remove that option, but instead to ensure the
+incentives for that option are bad (as the free software product model does).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: The Way Forward</title>
+      <link>https://sfosc.org/docs/book/the_way_forward/</link>
+      <pubDate>Thu, 29 Nov 2018 14:37:03 -0800</pubDate>
+      
+      <guid>https://sfosc.org/docs/book/the_way_forward/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;How do we move forward?&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;p&gt;We can pull all of this together with set of of sustainable open source
+community principles - these are the guidelines we should follow if we want to
+create a sustainable open source community. Then we can create specific
+implementations of these principles for our communities - social contracts that
+spell out the communities&amp;rsquo; intentions, their relationship to monetization, and
+the principles upon which they will thrive: their community social contract.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t pretend to know or have seen all the possible models, or have a perfect
+understanding of what happens when we build intentionally sustainable open
+source communities. My hope is that we can help each other, and the industry at
+large, understand that communities are about people coming together with common
+cause, and helping each other day by day. That the value of development in the
+commons isn&amp;rsquo;t just a technically superior model: it&amp;rsquo;s also the right social and
+ethical model.&lt;/p&gt;
+
+&lt;p&gt;I believe that if we do that, we will start to see a reverse of the trend where
+the most closed companies have the best outcomes. Instead, we will see that the
+companies who are the best participants in the community, who build the best,
+most sustainable model of helping their users and customers solve their
+problems, will be the winners. There is no comparison to the impact we have on
+each other when we form supportive, inclusive, meaningful communities. I hope
+you&amp;rsquo;ll join me.&lt;/p&gt;
+
+&lt;p&gt;For next steps: explore the &lt;a href=&#34;https://sfosc.org/docs/principles/&#34;&gt;principles&lt;/a&gt;, &lt;a href=&#34;https://sfosc.org/docs/business-models/&#34;&gt;business
+models&lt;/a&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
