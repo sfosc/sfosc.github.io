@@ -14,5 +14,535 @@
       
     
     
+    <item>
+      <title>About: Code of Conduct</title>
+      <link>https://sfosc.org/about/code_of_conduct/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/code_of_conduct/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page details guidelines for interaction and behavior in the SFOSC community.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;
+
+&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;
+
+&lt;p&gt;In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.&lt;/p&gt;
+
+&lt;h2 id=&#34;our-standards&#34;&gt;Our Standards&lt;/h2&gt;
+
+&lt;p&gt;Examples of behavior that contributes to creating a positive environment
+include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using welcoming and inclusive language&lt;/li&gt;
+&lt;li&gt;Being respectful of differing viewpoints and experiences&lt;/li&gt;
+&lt;li&gt;Gracefully accepting constructive criticism&lt;/li&gt;
+&lt;li&gt;Focusing on what is best for the community&lt;/li&gt;
+&lt;li&gt;Showing empathy towards other community members&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Examples of unacceptable behavior by participants include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The use of sexualized language or imagery and unwelcome sexual attention or
+advances&lt;/li&gt;
+&lt;li&gt;Trolling, insulting/derogatory comments, and personal or political attacks&lt;/li&gt;
+&lt;li&gt;Public or private harassment&lt;/li&gt;
+&lt;li&gt;Publishing others&amp;rsquo; private information, such as a physical or electronic
+address, without explicit permission&lt;/li&gt;
+&lt;li&gt;Other conduct which could reasonably be considered inappropriate in a
+professional setting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;our-responsibilities&#34;&gt;Our Responsibilities&lt;/h2&gt;
+
+&lt;p&gt;Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.&lt;/p&gt;
+
+&lt;p&gt;Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.&lt;/p&gt;
+
+&lt;h2 id=&#34;scope&#34;&gt;Scope&lt;/h2&gt;
+
+&lt;p&gt;This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.&lt;/p&gt;
+
+&lt;h2 id=&#34;enforcement&#34;&gt;Enforcement&lt;/h2&gt;
+
+&lt;p&gt;Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at adam@stalecoffee.org. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.&lt;/p&gt;
+
+&lt;p&gt;Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project&amp;rsquo;s leadership.&lt;/p&gt;
+
+&lt;h2 id=&#34;attribution&#34;&gt;Attribution&lt;/h2&gt;
+
+&lt;p&gt;This Code of Conduct is adapted from the &lt;a href=&#34;https://www.contributor-covenant.org&#34; target=&#34;_blank&#34;&gt;Contributor Covenant&lt;/a&gt;, version 1.4,
+available at &lt;a href=&#34;https://www.contributor-covenant.org/version/1/4/code-of-conduct.html&#34; target=&#34;_blank&#34;&gt;https://www.contributor-covenant.org/version/1/4/code-of-conduct.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;For answers to common questions about this code of conduct, see
+&lt;a href=&#34;https://www.contributor-covenant.org/faq&#34; target=&#34;_blank&#34;&gt;https://www.contributor-covenant.org/faq&lt;/a&gt;&lt;/p&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About: Contributing</title>
+      <link>https://sfosc.org/about/contributing/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/contributing/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page includes information about contributing to SFOSC&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;request-for-contributions&#34;&gt;Request for Contributions&lt;/h1&gt;
+
+&lt;p&gt;We would love to have you help us evolve the principles, write new social
+contracts, and further explore what it means to create sustainable free and
+open source communities.&lt;/p&gt;
+
+&lt;p&gt;In particular, we seek the following types of contributions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ideas: participate in an issues thread or start your own to voice your idea&lt;/li&gt;
+&lt;li&gt;copy editing: contribute your expertise by helping us expand, clarify and proofing our content&lt;/li&gt;
+&lt;li&gt;code: improve the design, usability and functionality of the sfosc page&lt;/li&gt;
+&lt;li&gt;artwork: contribute graphics or any other artwork improving the presentation of sfosc&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Read this guide on how to do that.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#how-to-contribute-ideas&#34;&gt;How to contribute ideas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#how-to-contribute-code&#34;&gt;How to contribute code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#how-to-conduct-yourself-when-contributing&#34;&gt;How to conduct yourself when contributing&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&#34;how-to-contribute-ideas&#34;&gt;How to Contribute Ideas&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: familiarity with &lt;a href=&#34;https://guides.github.com/features/issues/&#34; target=&#34;_blank&#34;&gt;GitHub Issues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our community mainly communicates over github issues threads. Please voice any idea,
+criticism or feedback in them so we can have an open discussion. Of course you can
+also feel free to contact any of our &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/MEMBERSHIP.md&#34; target=&#34;_blank&#34;&gt;members&lt;/a&gt;
+privately if you think this is necessary.&lt;/p&gt;
+
+&lt;h1 id=&#34;how-to-contribute-code&#34;&gt;How to Contribute Code&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;: familiarity with &lt;a href=&#34;https://help.github.com/articles/using-pull-requests&#34; target=&#34;_blank&#34;&gt;GitHub Pull Requests&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to contribute code, fork the repository and make a pull-request
+with your changes.&lt;/p&gt;
+
+&lt;p&gt;If you want to view/test your changes locally before, you can build this static
+web page with &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;hugo&lt;/a&gt;, please check their extensive documentation
+on how to install and use this site generator.&lt;/p&gt;
+
+&lt;p&gt;A &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/MEMBERSHIP.md&#34; target=&#34;_blank&#34;&gt;sfosc member&lt;/a&gt;
+will review your pull-request. And if the pull request gets a positive review
+the reviewer will merge it.&lt;/p&gt;
+
+&lt;p&gt;However, please bear in mind the following things:&lt;/p&gt;
+
+&lt;h2 id=&#34;discuss-large-changes-in-advance&#34;&gt;Discuss Large Changes in Advance&lt;/h2&gt;
+
+&lt;p&gt;If you see a glaring flaw within the SFOSC, resist the urge to jump into the
+code and make sweeping changes right away. We know it can be tempting, but
+especially for large, structural changes it&amp;rsquo;s a wiser choice to first discuss
+them in the &lt;a href=&#34;https://github.com/sfosc/sfosc/issues&#34; target=&#34;_blank&#34;&gt;issue list&lt;/a&gt;.
+It may turn out that someone is already working on this or that someone already
+has tried to solve this and hit a roadblock, maybe there even is a good reason
+why that flaw exists. If nothing else, a discussion of the change will usually
+familiarize the reviewer with your proposed changes and streamline the review
+process when you finally create a pull request.&lt;/p&gt;
+
+&lt;p&gt;A good rule of thumb for when you should discuss on the issue list is to
+estimate how much time would be wasted if the pull request was rejected. If
+it&amp;rsquo;s a couple of minutes then you can probably dive head first and eat the loss
+in the worst case. Otherwise, making a quick check with the other developers
+could save you lots of time down the line.&lt;/p&gt;
+
+&lt;h2 id=&#34;small-commits-pull-request-scope&#34;&gt;Small Commits &amp;amp; Pull Request Scope&lt;/h2&gt;
+
+&lt;p&gt;A commit should contain a single logical change, the scope should be as small
+as possible. And a pull request should only consist of the commits that you
+need for your change. If it&amp;rsquo;s possible for you to split larger changes into
+smaller blocks please do so.&lt;/p&gt;
+
+&lt;p&gt;Limiting the scope of commits/pull requests makes reviewing much easier.
+Because it will usually mean each commit can be evaluated independently and a
+smaller amount of commits per pull request usually also means a smaller amount
+of code to be reviewed.&lt;/p&gt;
+
+&lt;h2 id=&#34;proper-commit-messages&#34;&gt;Proper Commit Messages&lt;/h2&gt;
+
+&lt;p&gt;We are keen on proper commit messages because they will help us to maintain
+this in the future.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The title of your commit should summarizes &lt;strong&gt;what&lt;/strong&gt; has been done
+
+&lt;ul&gt;
+&lt;li&gt;If the title is to small to explain &lt;strong&gt;what&lt;/strong&gt; you have done then elaborate on it in the body&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Explain &lt;strong&gt;why&lt;/strong&gt; you have changed this instead of the &lt;em&gt;how&lt;/em&gt;. This is the most important content of the message.&lt;/li&gt;
+&lt;li&gt;Explain potential side-effects of this change, if there are any&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please also:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Leave a blank line between the commit subject and body&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tools like rebase could not work properly otherwise.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mention related issues&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If this commit fixes an issue you need to mention it like &lt;code&gt;Fixes #1234&lt;/code&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Give kudos to Co-authors&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If the commit has more than one author tag them with &lt;code&gt;Co-authored-by: name &amp;lt;name@example.com&amp;gt;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Try that the commit subject is not longer than 50 characters&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Try that each line of the commit body is not longer than 72 characters&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;how-to-conduct-yourself&#34;&gt;How to Conduct Yourself&lt;/h1&gt;
+
+&lt;p&gt;Please make sure that while contributing you follow our
+&lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/CODE_OF_CONDUCT.md&#34; target=&#34;_blank&#34;&gt;Contributor Covenant Code of Conduct&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Happy Hacking! - :heart: Your SFOSC Team&lt;/p&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About: Membership</title>
+      <link>https://sfosc.org/about/membership/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/membership/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page includes information about membership in SFOSC&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;membership-in-the-sfosc&#34;&gt;Membership in the SFOSC&lt;/h1&gt;
+
+&lt;p&gt;Welcome! Anyone who is interested in contributing to the SFOSC in any way is welcome
+to become a member.&lt;/p&gt;
+
+&lt;p&gt;Membership is &lt;strong&gt;not a requirement&lt;/strong&gt; for participating in the community.
+Members may be consulted about governance of the community. For example through votes.
+The &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34;&gt;CONTRIBUTING GUIDELINES&lt;/a&gt;
+explain several ways you can contribute regardless of membership.&lt;/p&gt;
+
+&lt;p&gt;Membership in the community is broad based, available to anyone who is
+participating in any fashion. Requirements for membership involve a minimal
+amount of verification of identity, and proof of engagement with the community.
+Membership consists solely of individuals - there are no corporate community
+members.&lt;/p&gt;
+
+&lt;p&gt;At the moment, the only privilege membership brings is being able
+to vote for the project leader. And, of course, the glory of having your name appended
+to this file.&lt;/p&gt;
+
+&lt;h2 id=&#34;applying&#34;&gt;Applying&lt;/h2&gt;
+
+&lt;p&gt;To apply for membership, send a pull request to this file, adding your name and
+GitHub username.&lt;/p&gt;
+
+&lt;p&gt;Please mention why you became interested in SFOSC and share some related work.
+This is optional though, please share only as much as you would like to.&lt;/p&gt;
+
+&lt;p&gt;Existing members will review your application.
+The aspects we look for currently are:
+- Full name and GitHub username, to serve as minimal verification of identity.
+- You have either engaged with SFOSC directly, or have related experience we can verify.
+  If this experience is not easily found from your GitHub profile, please mention it
+  as part of the pull request.&lt;/p&gt;
+
+&lt;p&gt;Interested, but not sure if you meet the requirements?
+Go ahead and submit your pull request! We&amp;rsquo;re glad you&amp;rsquo;re interested and there to help.&lt;/p&gt;
+
+&lt;h2 id=&#34;members&#34;&gt;Members&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Adam Jacob (adamhjk)&lt;/li&gt;
+&lt;li&gt;Karl Amrhein (karlamrhein)&lt;/li&gt;
+&lt;li&gt;Elias Secchi (eliassecchi)&lt;/li&gt;
+&lt;li&gt;Camille Moulin (camillem)&lt;/li&gt;
+&lt;li&gt;Daniel Thompson-Yvetot (nothingismagick)&lt;/li&gt;
+&lt;li&gt;Vanessa Sochat (vsoch)&lt;/li&gt;
+&lt;li&gt;Chris Alfano (themightychris)&lt;/li&gt;
+&lt;li&gt;Nick Kellett (nickkellett)&lt;/li&gt;
+&lt;li&gt;Marc Laporte (marclaporte)&lt;/li&gt;
+&lt;li&gt;Robin van Boven (beanow)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About: Social Contract</title>
+      <link>https://sfosc.org/about/social_contract/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/social_contract/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page includes information about SFOSC social contracts.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;This document describe the social contract for the community around a piece of
+open source software (&amp;ldquo;the software&amp;rdquo;). It lays out the moral and ethical rules
+the community agrees to in order to ensure a long, healthy, sustainable life
+for the software.&lt;/p&gt;
+
+&lt;p&gt;It is not a legal agreement, although sections of it reference legal
+agreements. It is a moral and ethical one - it is the foundation upon which the
+community is built.&lt;/p&gt;
+
+&lt;p&gt;By joining the community, you agree to the rules and beliefs outlined in this
+social contract.&lt;/p&gt;
+
+&lt;h2 id=&#34;principles&#34;&gt;Principles&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://sfosc.github.io/principles&#34; target=&#34;_blank&#34;&gt;We follow the principles of sustainable free and open source
+communities&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are a unified body of individuals, scattered throughout the larger society,
+who work in support of the creation, evolution, use, and extension of the
+software; while ensuring its longevity through meeting the needs of the present
+without compromising the ability of the community of the future to meet its own
+needs.&lt;/p&gt;
+
+&lt;p&gt;We want the software to exist, to solve our problems, to continue to improve,
+and to be available for our use. Therefore, we commit that we will uphold
+these four freedoms for all, under all circumstances:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The freedom to run the program as you wish, for any purpose (freedom 0).&lt;/li&gt;
+&lt;li&gt;The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1).&lt;/li&gt;
+&lt;li&gt;The freedom to redistribute copies so you can help others (freedom 2).&lt;/li&gt;
+&lt;li&gt;The freedom to distribute copies of your modified versions to others (freedom 3).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We do this because:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;We believe that software is better when it is produced in the commons.&lt;/li&gt;
+&lt;li&gt;We believe that sustainable communities are based on just and fair institutions.&lt;/li&gt;
+&lt;li&gt;We value the ability of every person to use the software to better their
+own lives.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;governance&#34;&gt;Governance&lt;/h2&gt;
+
+&lt;h3 id=&#34;code-of-conduct&#34;&gt;Code of Conduct&lt;/h3&gt;
+
+&lt;p&gt;To ensure that all people are welcome, treated fairly and safely, this
+community has a code of conduct, published at &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/CODE_OF_CONDUCT.md&#34; target=&#34;_blank&#34;&gt;CODE OF CONDUCT&lt;/a&gt;. It applies equally to
+all members of the community, both on-line and in person. Membership and participation
+in the community requires following the Code of Conduct.&lt;/p&gt;
+
+&lt;h3 id=&#34;membership&#34;&gt;Membership&lt;/h3&gt;
+
+&lt;p&gt;Membership is &lt;strong&gt;not a requirement&lt;/strong&gt; for participating in the community.
+Members may be consulted about governance of the community. For example through votes.
+The &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/CONTRIBUTING.md&#34; target=&#34;_blank&#34;&gt;CONTRIBUTING GUIDELINES&lt;/a&gt;
+explain several ways you can contribute regardless of membership.&lt;/p&gt;
+
+&lt;p&gt;Membership in the community is broad based, available to anyone who is
+participating in any fashion. Requirements for membership involve a minimal
+amount of verification of identity, and proof of engagement with the community.
+Membership consists solely of individuals - there are no corporate community
+members.&lt;/p&gt;
+
+&lt;p&gt;Guidelines for membership can be found at &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/MEMBERSHIP.md&#34; target=&#34;_blank&#34;&gt;MEMBERSHIP GUIDELINES&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;voting&#34;&gt;Voting&lt;/h3&gt;
+
+&lt;p&gt;Periodically, the membership may be requested to vote in elections, or on a referendum
+on an important issue. Each member is entitled to a single vote, and all votes count
+equally.&lt;/p&gt;
+
+&lt;p&gt;Guidelines for voting can be found in &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/VOTING.md&#34; target=&#34;_blank&#34;&gt;VOTING GUIDELINES&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;leadership&#34;&gt;Leadership&lt;/h3&gt;
+
+&lt;p&gt;Leadership in the community is based on a strong executive model. The Project
+Leader will be elected by a simple majority vote according to the voting
+guidelines. The Project Leader will serve for 1 year, at the end of which a new
+election for Project Leader will be held.&lt;/p&gt;
+
+&lt;p&gt;The Project Leader has broad authority to manage the project as they see fit, to
+delegate positions of authority, and to enact new governance rules. The
+exception is amending this social contract. This can only be done with a &lt;sup&gt;3&lt;/sup&gt;&amp;frasl;&lt;sub&gt;4&lt;/sub&gt;
+vote of the membership.&lt;/p&gt;
+
+&lt;p&gt;A new election can be held for the Project Leader at any time, regardless of
+term, based on a simple majority vote of the membership.&lt;/p&gt;
+
+&lt;p&gt;The full set of guidelines for the Project can be found at &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/RULES.md&#34; target=&#34;_blank&#34;&gt;PROJECT RULES&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;licensing-copyrights-patents-and-trademarks&#34;&gt;Licensing, Copyrights, Patents, and Trademarks&lt;/h2&gt;
+
+&lt;h3 id=&#34;software-license&#34;&gt;Software License&lt;/h3&gt;
+
+&lt;p&gt;All software produced by the community will be published under the &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;SOFTWARE
+LICENSE&lt;/a&gt;. All contributors to the software agree to publish their work under
+this license, and to have it included in any distributions or derivatives
+allowed under the same terms.&lt;/p&gt;
+
+&lt;h3 id=&#34;copyrights&#34;&gt;Copyrights&lt;/h3&gt;
+
+&lt;p&gt;All copyrights remain the property of the original copyright holder, under the
+terms of the &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;SOFTWARE LICENSE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;patents&#34;&gt;Patents&lt;/h3&gt;
+
+&lt;p&gt;Any patents included in the software must be made available under the same
+terms as the &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;SOFTWARE LICENSE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;trademarks&#34;&gt;Trademarks&lt;/h3&gt;
+
+&lt;p&gt;Any trademarks that may exist, relating to the software directly, are the
+ethical property of the community itself. Their use in the software is made
+available under the same terms as the &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;SOFTWARE LICENSE&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Further details can be found in the &lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/TRADEMARK.md&#34; target=&#34;_blank&#34;&gt;TRADEMARK POLICY&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;economic-sustainability&#34;&gt;Economic Sustainability&lt;/h2&gt;
+
+&lt;h3 id=&#34;community-intent&#34;&gt;Community Intent&lt;/h3&gt;
+
+&lt;p&gt;Any commercial activity around the software should, in part, further the
+sustainability of the community. The potential for economic benefit is
+available to all members of the community equally.&lt;/p&gt;
+
+&lt;h3 id=&#34;donations&#34;&gt;Donations&lt;/h3&gt;
+
+&lt;p&gt;This project will be sustained through a donation model. Currently the
+project has no expenses, so no system of donations is yet available.&lt;/p&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About: Trademark</title>
+      <link>https://sfosc.org/about/trademark/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/trademark/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page includes information about SFOSC trademarks.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;trademark-policy&#34;&gt;Trademark Policy&lt;/h1&gt;
+
+&lt;p&gt;The Sustainable Free and Open Source Community, and the SFOSC, are not currently
+trademarked. We do ask that, if you want to republish this content, you do so in
+line with the terms of our license.
+
+      </description>
+    </item>
+    
+    <item>
+      <title>About: Voting</title>
+      <link>https://sfosc.org/about/voting/</link>
+      <pubDate>Thu, 06 Dec 2018 12:27:40 -0800</pubDate>
+      
+      <guid>https://sfosc.org/about/voting/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;pageinfo pageinfo-primary&#34;&gt;
+&lt;p&gt;This page details guidelines for voting in SFOSC.&lt;/p&gt;
+
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;voting-guidelines&#34;&gt;Voting Guidelines&lt;/h1&gt;
+
+&lt;p&gt;Every member in the
+&lt;a href=&#34;https://github.com/sfosc/sfosc/blob/master/MEMBERSHIP.md&#34; target=&#34;_blank&#34;&gt;MEMBERSHIP&lt;/a&gt; file is
+allowed one vote. We will use &lt;a href=&#34;https://heliosvoting.org&#34; target=&#34;_blank&#34;&gt;Helios&lt;/a&gt; to organize the
+actual vote, and certify the results.
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
